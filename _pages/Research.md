@@ -14,16 +14,16 @@ Other interests include algebraic topology, chiral algebras, D-modules, higher c
 
 *Under construction*
 
-- [Review on Bruhat-Tits buildings](https://github.com/GauSyu/SmallNotes/blob/master/Review%20on%20Bruhat-Tits%20buildings.pdf).
-- [*Henselian local rings*](https://github.com/GauSyu/SmallNotes/blob/master/Henselization.pdf).
-- An English translation version of [Chapter 16 of *EGA*](https://github.com/GauSyu/EGA-en/blob/master/EGA-IVch16.pdf).
-- my reading notes on [Deligne's *Equations Differentielles a Points Singuliers Reguliers*](https://github.com/GauSyu/DeligneEqNotes/blob/master/Dictionnaire.pdf). `need updates`
-- [*Note on Spectral Sequences*](https://github.com/GauSyu/Cohomology/blob/master/Spectral%20sequences.pdf).
-- Reading notes on [*Complex D-modules*](https://github.com/GauSyu/D-modules/blob/master/ComplexDmod.pdf). `need updates`
-- [*Homological algebra note*](https://github.com/GauSyu/Cohomology/blob/master/Homological_Algebra.pdf). `need updates`
-- [*Note on Dirichlet’s Theorem of primes in arithmetic progressions*](https://github.com/GauSyu/SmallNotes/blob/master/Dirichlet.pdf).
-- [Solutions to Neukirch's "Algebraic Number Theory"](https://github.com/GauSyu/ANT/blob/master/Solutions%20to%20Neukirch%20ANT.pdf). 
-- [Solutions for exercises in Humphreys' GTM 9](https://github.com/GauSyu/Humphreys).
+- [Review on Bruhat-Tits buildings](https://github.com/GauSyu/SmallNotes/blob/master/Review%20on%20Bruhat-Tits%20buildings.pdf), 2021.
+- [*Henselian local rings*](https://github.com/GauSyu/SmallNotes/blob/master/Henselization.pdf), 2020.
+- An English translation version of [Chapter 16 of *EGA*](https://github.com/GauSyu/EGA-en/blob/master/EGA-IVch16.pdf), 2018.
+- my reading notes on [Deligne's *Equations Differentielles a Points Singuliers Reguliers*](https://github.com/GauSyu/DeligneEqNotes/blob/master/Dictionnaire.pdf), 2018. `need updates`
+- [*Note on Spectral Sequences*](https://github.com/GauSyu/Cohomology/blob/master/Spectral%20sequences.pdf), 2018.
+- Reading notes on [*Complex D-modules*](https://github.com/GauSyu/D-modules/blob/master/ComplexDmod.pdf), 2018. `need updates`
+- [*Homological algebra note*](https://github.com/GauSyu/Cohomology/blob/master/Homological_Algebra.pdf), 2018. `need updates`
+- [*Note on Dirichlet’s Theorem of primes in arithmetic progressions*](https://github.com/GauSyu/SmallNotes/blob/master/Dirichlet.pdf), 2016.
+- [Solutions to Neukirch's "Algebraic Number Theory"](https://github.com/GauSyu/ANT/blob/master/Solutions%20to%20Neukirch%20ANT.pdf), 2015. 
+- [Solutions for exercises in Humphreys' GTM 9](https://github.com/GauSyu/Humphreys), 2013.
 
 ### Publications 
 
