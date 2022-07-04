@@ -14,7 +14,18 @@ Other interests include algebraic topology, chiral algebras, D-modules, higher c
 
 *Under construction*
 
+- [Review on Bruhat-Tits buildings](https://github.com/GauSyu/SmallNotes/blob/master/Review%20on%20Bruhat-Tits%20buildings.pdf).
+- [*Henselian local rings*](https://github.com/GauSyu/SmallNotes/blob/master/Henselization.pdf).
+- An English translation version of [Chapter 16 of *EGA*](https://github.com/GauSyu/EGA-en/blob/master/EGA-IVch16.pdf).
+- my reading notes on [Deligne's *Equations Differentielles a Points Singuliers Reguliers*](https://github.com/GauSyu/DeligneEqNotes/blob/master/Dictionnaire.pdf). `need updates`
+- [*Note on Spectral Sequences*](https://github.com/GauSyu/Cohomology/blob/master/Spectral%20sequences.pdf).
+- Reading notes on [*Complex D-modules*](https://github.com/GauSyu/D-modules/blob/master/ComplexDmod.pdf). `need updates`
+- [*Homological algebra note*](https://github.com/GauSyu/Cohomology/blob/master/Homological_Algebra.pdf). `need updates`
+- [*Note on Dirichlet’s Theorem of primes in arithmetic progressions*](https://github.com/GauSyu/SmallNotes/blob/master/Dirichlet.pdf).
+- [Solutions to Neukirch's "Algebraic Number Theory"](https://github.com/GauSyu/ANT/blob/master/Solutions%20to%20Neukirch%20ANT.pdf). 
+- [Solutions for exercises in Humphreys' GTM 9](https://github.com/GauSyu/Humphreys).
+
 ### Publications 
 
-- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University
+- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
 - Xu Gao, Ming Liu, Chengming Bai and Naihuan Jing, [“*Rota-Baxter Operators on Witt and Virasoro Algebras*”](https://doi.org/10.1016/j.geomphys.2016.06.007), Journal of Geometry and Physics, vol.108, 2016, pp.1-20.
