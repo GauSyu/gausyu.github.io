@@ -6,7 +6,7 @@ permalink: /Teaching/
 
 ### Graduate Student Instructor Experience
 
-| Fall 2022 | MATH 110: Introduction to Number Theory | Course page in on Canvas(https://canvas.ucsc.edu/courses/57018) and Syllabus on Github(https://github.com/GauSyu/MathTeachingMaterials/blob/main/Fall%202022%20MATH%20110%20UCSC/Syllabus.pdf) |
+| Fall 2022 | MATH 110: Introduction to Number Theory | [Course page on Canvas](https://canvas.ucsc.edu/courses/57018) <br> and [Syllabus on Github](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Fall%202022%20MATH%20110%20UCSC/Syllabus.pdf) |
 
 ### Teaching Assistant Experience
 
