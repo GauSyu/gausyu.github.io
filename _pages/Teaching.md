@@ -4,9 +4,15 @@ title: Teaching
 permalink: /Teaching/
 ---
 
+### Graduate Student Instructor Experience
+
+| Fall 2022 | MATH 110: Introduction to Number Theory | Course page in on Canvas(https://canvas.ucsc.edu/courses/57018) and Syllabus on Github(https://github.com/GauSyu/MathTeachingMaterials/blob/main/Fall%202022%20MATH%20110%20UCSC/Syllabus.pdf) |
+
 ### Teaching Assistant Experience
 
-
+| Summer 2022 | MATH 22: Introduction to Calculus of Several Variables | 
+| Spring 2022 | MATH 19B: Calculus for Science, Engineering, and MATH ematics | 
+| Winter 2022 | MATH 19A: Calculus for Science, Engineering, and MATH ematics | 
 | Fall 2021 | MATH 19B: Calculus for Science, Engineering, and MATH ematics | 
 | Summer 2021 | MATH 110: Introduction to Number Theory | 
 | Spring 2021 | MATH 19B: Calculus for Science, Engineering, and MATH ematics | 
