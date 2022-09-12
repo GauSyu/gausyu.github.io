@@ -10,6 +10,11 @@ My current interests are Bruhat-Tits buildings and p-adic representations. More 
 
 Other interests include algebraic topology, chiral algebras, D-modules, higher category theory, homotopical algebras, mathematical physics, p-adic geometry, representation theory, transcendental number theory, etc. 
 
+### Publications and preprints
+
+- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
+- Xu Gao, Ming Liu, Chengming Bai and Naihuan Jing, [“*Rota-Baxter Operators on Witt and Virasoro Algebras*”](https://doi.org/10.1016/j.geomphys.2016.06.007), Journal of Geometry and Physics, vol.108, 2016, pp.1-20.
+
 ### Expository writing
 
 *Under construction*
@@ -24,8 +29,3 @@ Other interests include algebraic topology, chiral algebras, D-modules, higher c
 - [*Note on Dirichlet’s Theorem of primes in arithmetic progressions*](https://github.com/GauSyu/SmallNotes/blob/master/Dirichlet.pdf), 2016.
 - [Solutions to Neukirch's "Algebraic Number Theory"](https://github.com/GauSyu/ANT/blob/master/Solutions%20to%20Neukirch%20ANT.pdf), 2015. 
 - [Solutions for exercises in Humphreys' GTM 9](https://github.com/GauSyu/Humphreys), 2013.
-
-### Publications 
-
-- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
-- Xu Gao, Ming Liu, Chengming Bai and Naihuan Jing, [“*Rota-Baxter Operators on Witt and Virasoro Algebras*”](https://doi.org/10.1016/j.geomphys.2016.06.007), Journal of Geometry and Physics, vol.108, 2016, pp.1-20.
