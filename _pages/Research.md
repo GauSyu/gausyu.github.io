@@ -6,9 +6,9 @@ permalink: /Research/
 
 ### Research interesting
 
-My current interests are Bruhat-Tits buildings and p-adic representations. More precisely, I focus on problems in Bruhat-Tits buildings which are related to stable vertices. My recent result is about simplicial distance on Bruhat-Tits buildings.
+My current interests are Bruhat-Tits buildings and p-adic representations. At present, I'm considering problems related to the simplicial distance and concave functions on Bruhat-Tits buildings. 
 
-Other interests include algebraic topology, chiral algebras, D-modules, higher category theory, homotopical algebras, mathematical physics, p-adic geometry, representation theory, transcendental number theory, etc. 
+Other interests include algebraic analysis, mathematical physics, representation theory, p-adic geometry, tensor triangular geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
 
 ### Publications and preprints
 
