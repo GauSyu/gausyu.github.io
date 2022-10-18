@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 ---
 
-### Research interesting
+### Research interests
 
 My current interests are Bruhat-Tits buildings and p-adic representations. At present, I'm considering problems related to the simplicial distance and concave functions on Bruhat-Tits buildings. 
 
