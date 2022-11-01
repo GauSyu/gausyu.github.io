@@ -3,6 +3,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible);
 
+p { text-align: justify; }
 
 body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 14px; }
 
