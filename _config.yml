@@ -15,7 +15,7 @@ profile:
     email                : "gausyu@gmail.com"
     description          : &description "personal description"
     image                : "img/IMG_2652.jpeg"
-    cv                   : "cv.pdf"
+    cv                   : "uploads/CV.pdf"
     employer             : "UCSC"
     orcid                : "0000-0001-8284-6955"
     github               : "gausyu"
