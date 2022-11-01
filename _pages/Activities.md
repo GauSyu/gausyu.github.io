@@ -6,13 +6,13 @@ permalink: /Activities/
 
 ### Academic Talks
 
-- **How many vertices are there in a simplicial ball of radius r (in a Brihat-Tits Building)?**  
+- **How many vertices are there in a simplicial ball of radius r (in a Brihat-Tits Building)?**       
   *UCSC Graduate Colloquium*, May 9, 2022. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/SimplicialVolume_Xu.pdf)
 
-- **Stable Simplexes of p-adic Representations in Bruhat-Tits Buildings.**  
-  *Graduate Colloquium*, November 22, 2021. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/Stable%20simplexes%20of%20p-adic%20representations%20in%20Bruhat-Tits%20buildings_Gao.pdf)
+- **Stable Simplexes of p-adic Representations in Bruhat-Tits Buildings.**     
+  *UCSC Graduate Colloquium*, November 22, 2021. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/Stable%20simplexes%20of%20p-adic%20representations%20in%20Bruhat-Tits%20buildings_Gao.pdf)
 
-- **Transcendence of Periods.**  
+- **Transcendence of Periods.**     
   *PhD qualify oral Presentation* May 24, 2019. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/OralPresentation-Periods.pdf)
 
 ### Attended Academic Activities
