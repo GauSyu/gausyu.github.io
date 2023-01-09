@@ -44,6 +44,7 @@ katex: true
   - Develop problem-solving skills.
   - Practice clear, concise, and precise mathematical writing.
 
+![Structure of this course](Mindmap.png){ style="display: block; margin: 0 auto" }
 
 
 ### Grade
