@@ -54,9 +54,7 @@ mermaid: true
 ### Grade
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+pie showData
+  title The grade will be based on two parts: 
+    ``Attendance`` : 10
 ```
