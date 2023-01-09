@@ -11,6 +11,7 @@ katex: true
 
 - [Course Information](#course-information)
 - [Learning Outcomes](#learning-outcomes)
+- [Structure of this course](#structure-of-this-course)
 - [Grade](#grade)
 
 
@@ -44,6 +45,8 @@ katex: true
   - Develop problem-solving skills.
   - Practice clear, concise, and precise mathematical writing.
 
+
+### Structure of this course
 ![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true)
 
 
