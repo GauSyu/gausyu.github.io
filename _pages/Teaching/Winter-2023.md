@@ -59,6 +59,6 @@ pie
     "Attendance and quizzes" : 10%
     "Glossary" : 10%
     "Homework" : 30%
-    "Midterm" :  20%		
-    "Final" :  30%
+    "Midterm" : 20%		
+    "Final" : 30%
 ```
