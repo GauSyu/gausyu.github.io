@@ -54,10 +54,10 @@ mermaid: true
 ### Grade
 
 ```mermaid
-pie showData
-  title The grade will be based on two parts
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+pie title The grade will be based on followings
+    "Attendance and quizzes" : 10%
+    "Glossary" : 10%
+    "Homework" : 30%
+    "Midterm" :  20%		
+    "Final" :  30%
 ```
