@@ -44,7 +44,7 @@ katex: true
   - Develop problem-solving skills.
   - Practice clear, concise, and precise mathematical writing.
 
-![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png)
+![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/5047ec0ecc4f3bc6e631208e56cc96739cd97998/Winter%202023%20MATH%20110%20UCSC/MIndmap.png)
 
 
 ### Grade
