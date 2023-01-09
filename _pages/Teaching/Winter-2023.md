@@ -49,3 +49,10 @@ katex: true
 
 ### Grade
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
