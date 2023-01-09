@@ -3,6 +3,7 @@ layout: note
 title: MATH 110
 permalink: /Teaching/Winter-2023/
 katex: true
+mermaid: true
 ---
 
 ## MATH 110: Introduction to Number Theory<!-- omit from toc --> 
