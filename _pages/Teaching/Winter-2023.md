@@ -56,9 +56,9 @@ mermaid: true
 ```mermaid
 pie 
   title The grade will be based on followings
-    "Attendance and quizzes" : 10%
-    "Glossary" : 10%
-    "Homework" : 30%
-    "Midterm" : 20%		
-    "Final" : 30%
+    "Attendance and quizzes" : 10
+    "Glossary" : 10
+    "Homework" : 30
+    "Midterm" : 20
+    "Final" : 30
 ```
