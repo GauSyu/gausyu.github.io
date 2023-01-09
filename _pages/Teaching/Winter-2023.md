@@ -54,7 +54,8 @@ mermaid: true
 ### Grade
 
 ```mermaid
-pie title The grade will be based on followings
+pie 
+  title The grade will be based on followings
     "Attendance and quizzes" : 10%
     "Glossary" : 10%
     "Homework" : 30%
