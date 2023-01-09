@@ -55,6 +55,9 @@ mermaid: true
 
 ```mermaid
 pie showData
-  title The grade will be based on two parts: 
-    ``Attendance`` : 10
+  title The grade will be based on two parts
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 ```
