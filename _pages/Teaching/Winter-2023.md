@@ -48,7 +48,7 @@ mermaid: true
 
 
 ### Structure of this course
-![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true | width=600)
+![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true){:width="600"}
 
 
 ### Grade
