@@ -9,6 +9,11 @@ katex: true
 
 #### Winter 2023 • MWF 4:00 PM - 5:05 PM at Engineer 2 194 (in-person)<!-- omit from toc --> 
 
+- [Course Information](#course-information)
+- [Learning Outcomes](#learning-outcomes)
+- [Grade](#grade)
+
+
 
 ### Course Information
 [*Syllabus on Github*](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Syllabus.pdf)
@@ -32,3 +37,14 @@ katex: true
     | 01B | McHenry Clrm 1279 | Tuesday 1:20 PM - 2:25 PM |
 
 *Lecture notes can be found [**here**](https://github.com/GauSyu/MathTeachingMaterials/tree/main/Winter%202023%20MATH%20110%20UCSC).*
+
+### Learning Outcomes
+  - Familiarize Ideas and problems in number theory that play essential roles in modern mathematics.
+  - Understand the roles of theorems, proofs, and counterexamples. 
+  - Develop problem-solving skills.
+  - Practice clear, concise, and precise mathematical writing.
+
+
+
+### Grade
+
