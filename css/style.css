@@ -126,6 +126,8 @@ a.footericon:hover {
 	color: #428bca;
 }
 
-.ct-label {
-	font-size: 15px;
+.ct-label{
+	font-size: 1em;
+	font-family: 'Indie Flower', cursive;
+	fill: black;
 }
