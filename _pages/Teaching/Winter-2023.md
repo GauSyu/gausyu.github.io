@@ -48,7 +48,7 @@ katex: true
   - Understand the roles of theorems, proofs, and counterexamples. 
   - Develop problem-solving skills.
   - Practice clear, concise, and precise mathematical writing.
-
+  - You will need basic [$\LaTeX$](Guidelines/#latex) for this course.
 
 ### Structure of this course
 ![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true){:width="750"}
