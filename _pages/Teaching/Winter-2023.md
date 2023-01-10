@@ -16,6 +16,7 @@ katex: true
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
+- [Guidelines](#guidelines)
 
 
 
@@ -92,3 +93,4 @@ To pass the course, your letter grade should be at least **C**.
 [^1]: Need to discuss with the instructor before the end of the course.
 
 
+### Guidelines 
