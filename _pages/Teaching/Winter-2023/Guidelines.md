@@ -21,31 +21,31 @@ katex: true
 
 #### Attendance and Quizzes
 
-1.  The lectures are **mandatory*, so there will be an attendance record.
+1.  The lectures are **mandatory**, so there will be an attendance record.
 
 2.  At the **beginning** of a lecture, you will see a QR code. Scan it to complete the attendance form. This is also the place to submit your quiz answer (if there is a quiz). You can also use this form to give your feedback on this lecture. The QR code will appear again at the **end** of the lecture.
 
 3.  If you cannot attend, please **contact me before the lecture** to avoid losing attendance points.
 
-4.  There may or may not be a quiz during the lecture. Submit your answer **through the attendance form*.
+4.  There may or may not be a quiz during the lecture. Submit your answer **through the attendance form**.
 
 #### Glossary
 
 1.  Throughout the course, you will maintain a glossary of terms and results that you find difficult to digest or wish to remember. Add **your thoughts** on them, and whenever possible, include examples as well.
 
-2.  The glossary can be typed or handwritten, long or short, but it **cannot be empty*. The point is it is about your learning experience.
+2.  The glossary can be typed or handwritten, long or short, but it **cannot be empty**. The point is it is about your learning experience.
 
-3.  You are asked to share your glossary every month (before the exams). To do this, navigate to the Glossary page and upload a **PDF** file to Gradescope. Be aware of the **due date*.
+3.  You are asked to share your glossary every month (before the exams). To do this, navigate to the Glossary page and upload a **PDF** file to Gradescope. Be aware of the **due date**.
 
 4.  You can use the glossary as an **index** to resources you need to solve problems in the exams.
 
 #### Homework
 
-1.  There will be homework every week. Please turn in the homework on the **due date*. (If you need an extension, please ask before the due date.)
+1.  There will be homework every week. Please turn in the homework on the **due date**. (If you need an extension, please ask before the due date.)
 
-2.  You are encouraged to **discuss** the problems with your peers (for example, on ED Discuss). However, you must write the homework **by yourself** using your words and **acknowledge your collaborators*.
+2.  You are encouraged to **discuss** the problems with your peers (for example, on ED Discuss). However, you must write the homework **by yourself** using your words and **acknowledge your collaborators**.
 
-3.  The homework is expected to be typed using **LaTeX*.
+3.  The homework is expected to be typed using **LaTeX**.
 
 4.  Pay close attention to the presentation and the clarity of your reasoning. This course is writing-intensive.
 
@@ -67,7 +67,7 @@ katex: true
 
 #### Final
 
-1.  According to [the registrar](https://registrar.ucsc.edu/soc/final-examinations.html), the Final will be given on **Thursday, March 23 12:00 – 3:00 PM*.
+1.  According to [the registrar](https://registrar.ucsc.edu/soc/final-examinations.html), the Final will be given on **Thursday, March 23 12:00 – 3:00 PM**.
 
 2.  You can look up your glossary, notes, textbook, and homework during the exam. But you **cannot discuss** the problems with others. **No digital devices** are allowed during the exam.
 
@@ -80,11 +80,11 @@ katex: true
 
 1.  You are welcome to ask me any questions during class and the office hours.
 
-2.  Besides those times, please contact me primarily via **Canvas*. I will reply within 24 hours during the weekdays. Contact me via email if and only if you haven’t received any response for a long time.
+2.  Besides those times, please contact me primarily via **Canvas**. I will reply within 24 hours during the weekdays. Contact me via email if and only if you haven’t received any response for a long time.
 
 3.  When you contact me, please provide as much information as possible on the subject you intend to discuss.
 
-4.  **Never hesitate to reach out*.
+4.  **Never hesitate to reach out**.
 
 #### $\LaTeX$ 
 
