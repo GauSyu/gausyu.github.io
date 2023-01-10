@@ -16,13 +16,6 @@ katex: true
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
-- [Guidelines](#guidelines)
-	- [Attendance and Quizzes](#attendance-and-quizzes)
-	- [Glossary](#glossary)
-	- [Homework](#homework)
-	- [Midterm](#midterm)
-	- [Final](#final)
-	- [Communication.](#communication)
 
 
 
@@ -99,12 +92,3 @@ To pass the course, your letter grade should be at least **C**.
 
 [^1]: Need to discuss with the instructor before the end of the course.
 
-
-### Guidelines 
-
-#### Attendance and Quizzes
-#### Glossary
-#### Homework
-#### Midterm
-#### Final
-#### Communication.
