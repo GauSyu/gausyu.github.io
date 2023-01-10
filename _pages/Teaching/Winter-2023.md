@@ -60,14 +60,14 @@ katex: true
 
 The grade will be based on two parts: 
 #### Homework and Classwork (50%)
-   - [**Attendance and quizzes (10%)**](Winter-2023/Guidelines#attendance-and-quizzes), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
-   - [**Glossary (10%)**](#glossary), you are asked to keep a glossary and share it with us before *each* exam.
-   - [**Homework (30%)**](#homework), weekly homework (different from exercises, which will not be graded)
+   - [**Attendance and quizzes (10%)**](Guidelines/#attendance-and-quizzes), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
+   - [**Glossary (10%)**](Guidelines/#glossary), you are asked to keep a glossary and share it with us before *each* exam.
+   - [**Homework (30%)**](Guidelines/#homework), weekly homework (different from exercises, which will not be graded)
 
 
 #### Exams (50%)
-   - [**Midterm (20%)**](#midterm), there will be **two** midterms, the lower one will be dropped.
-   - [**Final (30%)**](#final)
+   - [**Midterm (20%)**](Guidelines/#midterm), there will be **two** midterms, the lower one will be dropped.
+   - [**Final (30%)**](Guidelines/#final)
 
 
 #### Curve

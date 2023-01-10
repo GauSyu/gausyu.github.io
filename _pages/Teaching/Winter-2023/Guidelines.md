@@ -14,7 +14,9 @@ katex: true
 - [Homework](#homework)
 - [Midterm](#midterm)
 - [Final](#final)
-- [Communication.](#communication)
+- [Communication](#communication)
+- [$\\LaTeX$](#latex)
+- [Online Discussion Tools](#online-discussion-tools)
 
 
 #### Attendance and Quizzes
@@ -38,6 +40,60 @@ katex: true
 4.  You can use the glossary as an *index* to resources you need to solve problems in the exams.
 
 #### Homework
+
+1.  There will be homework every week. Please turn in the homework on the *due date*. (If you need an extension, please ask before the due date.)
+
+2.  You are encouraged to *discuss* the problems with your peers (for example, on ED Discuss). However, you must write the homework *by yourself* using your words and *acknowledge your collaborators*.
+
+3.  The homework is expected to be typed using *LaTeX*.
+
+4.  Pay close attention to the presentation and the clarity of your reasoning. This course is writing-intensive.
+
+5.  List the *references* you have used in your answer. You should avoid using resources that solve the problem immediately.
+
+6.  To submit the homework, navigate to the Homework page and upload the *compiled PDF* file (not the .tex file) to Gradescope.
+
+
 #### Midterm
+
+1.  The Midterms will be given on *Monday, Jan. 30th* and *Monday, Feb. 27th* during the lecture times.
+
+2.  Please prepare draft papers before the exam.
+
+3.  You can use your glossary, notes, textbook, and homework during the exam. But you *cannot discuss* the problems with others. *No digital devices* are allowed during the exam.
+
+4.  The only results (theorems/lemmas) you’re allowed to use are either provided during the lectures or in the exercises/homework.
+
+
 #### Final
-#### Communication.
+
+1.  According to [the registrar](https://registrar.ucsc.edu/soc/final-examinations.html), the Final will be given on *Thursday, March 23 12:00 – 3:00 PM*.
+
+2.  You can look up your glossary, notes, textbook, and homework during the exam. But you *cannot discuss* the problems with others. *No digital devices* are allowed during the exam.
+
+3.  The only results (theorems/lemmas) you’re allowed to use are either provided during the lectures or in the exercises/homework.
+
+4.  If you have any questions, ask me or the TA.
+
+
+#### Communication
+
+1.  You are welcome to ask me any questions during class and the office hours.
+
+2.  Besides those times, please contact me primarily via *Canvas*. I will reply within 24 hours during the weekdays. Contact me via email if and only if you haven’t received any response for a long time.
+
+3.  When you contact me, please provide as much information as possible on the subject you intend to discuss.
+
+4.  *Never hesitate to reach out*.
+
+#### $\LaTeX$ 
+
+$\LaTeX$ is widely used for mathematical writing. You will need basic $\LaTeX$  for this course. To start, look at the .tex files I provide you. You can upload them to online $\LaTeX$ editors such as
+[Overleaf](https://www.overleaf.com/), or import them into a local editor. Then google anything beyond the files, and use the online resources such as [Tex Stack Exchange](https://tex.stackexchange.com/), [Overleaf knowledge base](https://www.overleaf.com/learn), and [$\LaTeX$ wikibook](https://en.wikibooks.org/wiki/LaTeX). If you need help getting started, please contact me.
+
+
+
+#### Online Discussion Tools
+
+We will use online discussion tools such as discord. You are encouraged to collaborate and answer each other’s questions. You can find more details on Canvas.
+
