@@ -13,6 +13,8 @@ katex: true
 - [Learning Outcomes](#learning-outcomes)
 - [Structure of this course](#structure-of-this-course)
 - [Grade](#grade)
+	- [Homework and Classwork (50%)](#homework-and-classwork-50)
+	- [Exams (50%)](#exams-50)
 
 
 
@@ -54,9 +56,8 @@ katex: true
 
 <div class="ct-chart ct-label "></div>
 
-
 The grade will be based on two parts: 
- - **Homework and Classwork (50%)**
+#### Homework and Classwork (50%)
    - Attendance and quizzes (10%), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
-   - 
- - **Exams (50%)**
+   - Glossary (10%),
+#### Exams (50%)
