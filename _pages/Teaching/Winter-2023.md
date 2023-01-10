@@ -61,6 +61,7 @@ The grade will be based on two parts:
    - **Attendance and quizzes (10%)**, there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
    - **Glossary (10%)**, you are asked to keep a glossary and share it with us before *each* exam.
    - **Homework (30%)**, weekly homework (different from exercises, which will not be graded)
+
 #### Exams (50%)
    - **Midterm (20%)**, there will be **two** midterms, the lower one will be dropped.
    - **Final (30%)**
