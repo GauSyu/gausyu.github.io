@@ -72,7 +72,7 @@ The grade will be based on two parts:
 #### Curve
 The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
 
-<div align="center">
+<center>
 |:---:|:---:|
 | Total scores | Grade |
 | $\geqslant 98$ | A$+$ |
@@ -87,7 +87,7 @@ The final score will be curved with a norm distribution and then translated to l
 | $40$ -- $54$ | D |
 | $< 40$ | F |
 | incomplete[^1] | I |
-</div>
+</center>
 
 To pass the course, your letter grade should be at least **C**.
 
