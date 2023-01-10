@@ -55,3 +55,8 @@ katex: true
 <div class="ct-chart ct-label "></div>
 
 
+The grade will be based on two parts: 
+ - **Homework and Classwork (50%)**
+   - Attendance and quizzes (10%), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
+   - 
+ - **Exams (50%)**
