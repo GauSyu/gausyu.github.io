@@ -93,4 +93,4 @@ To pass the course, your letter grade should be at least **C**.
 
 [^1]: Need to discuss with the instructor before the end of the course.
 
-### [Guidelines](Winter-2023/Guidelines)
+### [Guidelines](Guidelines/)
