@@ -5,7 +5,7 @@ permalink: /Teaching/Winter-2023/Guidelines/
 katex: true
 ---
 
-## MATH 110: Introduction to Number Theory<!-- omit from toc --> 
+## [MATH 110: Introduction to Number Theory](../)<!-- omit from toc --> 
 
 ### Guidelines <!-- omit from toc --> 
 
