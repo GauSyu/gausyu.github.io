@@ -15,7 +15,7 @@ katex: true
 - [Grade](#grade)
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
-- [](#)
+	- [Curve](#curve)
 
 
 
@@ -69,4 +69,24 @@ The grade will be based on two parts:
    - **Final (30%)**
 
 
-###
+#### Curve
+The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
+
+|:---:|:---:|
+| Total scores | Grade |
+| $\geqslant 98$ | A$+$ |
+| $90$ -- $97$ | A |
+| $88$ -- $89$ | A$-$ |
+| $85$ -- $87$ | B$+$ |
+| $78$ -- $84$ | B |
+| $75$ -- $77$ | B$-$ |
+| $70$ -- $74$ | C$+$ |
+| $60$ -- $69$ | C |
+| $55$ -- $59$ | C$-$ |
+| $40$ -- $54$ | D |
+| $< 40$ | F |
+| incomplete[^1] | I |
+
+To pass the course, your letter grade should be at least **C**.
+[^1]: Need to discuss with the instructor before the end of the course.
+
