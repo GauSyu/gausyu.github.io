@@ -89,9 +89,15 @@ katex: true
 #### $\LaTeX$ 
 
 1.  $\LaTeX$ is widely used for mathematical writing. You will need basic $\LaTeX$ for this course. 
-2.  To start, look at the **.tex files** I provide you. You can upload them to online $\LaTeX$ editors such as
-[Overleaf](https://www.overleaf.com/), or import them into a local editor. Then google anything beyond the files, and use the online resources such as [Tex Stack Exchange](https://tex.stackexchange.com/), [Overleaf knowledge base](https://www.overleaf.com/learn), and [$\LaTeX$ wikibook](https://en.wikibooks.org/wiki/LaTeX). If you need help getting started, please contact me.
+2.  To start, look at the **.tex files** I provide you. 
+3.  Google anything beyond the files, and use online resources such as [Tex Stack Exchange](https://tex.stackexchange.com/), [Overleaf knowledge base](https://www.overleaf.com/learn), and [$\LaTeX$ wikibook](https://en.wikibooks.org/wiki/LaTeX). 
+4.  I will provide **solution shells** for each homework. Upload them to an online $\LaTeX$ IDE such as [Overleaf](https://www.overleaf.com/) and start typing your solutions.
+5.  Or you can import them into a local $\LaTeX$ IDE. To know more about getting LaTeX locally on your laptops, see [The TUG beginning page](https://www.tug.org/begin.html). (Note that as of 2022, proTeXt has been retired permanently. You can use [TeX Live on Windows](https://www.tug.org/texlive/windows.html) instead.)
+6.  If you need help getting started, please contact me ([Guidelines for Communication](#communication)).
 
+| the compiled PDF file: [LaTeX Template.pdf](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/LaTeX%20Template.pdf) | the source .tex file: [LaTeX Template.tex](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/LaTeX%20Template.tex) |
+
+Note that: to edit and compile the .tex file, you need to download it and upload it to an online or local IDE.
 
 
 #### Online Discussion Tools
