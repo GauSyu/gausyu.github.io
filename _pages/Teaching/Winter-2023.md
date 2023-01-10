@@ -72,8 +72,8 @@ The grade will be based on two parts:
 
 
 #### Exams (50%)
-   - **Midterm (20%)**, there will be **two** midterms, the lower one will be dropped.
-   - **Final (30%)**
+   - [**Midterm (20%)**](#midterm), there will be **two** midterms, the lower one will be dropped.
+   - [**Final (30%)**](#final)
 
 
 #### Curve
@@ -81,7 +81,7 @@ The final score will be curved with a norm distribution and then translated to l
 
 |:---:|:---:|
 | Total scores | Grade |
-| $\geqslant 98$ | A$+$ |
+|: $\geqslant 98$ :| A$+$ |
 | $90$ -- $97$ | A |
 | $88$ -- $89$ | A$-$ |
 | $85$ -- $87$ | B$+$ |
