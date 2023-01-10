@@ -6,7 +6,9 @@ permalink: /Teaching/
 
 ### Graduate Student Instructor Experience
 
-| [Winter 2023](/Teaching/Winter-2023) | <font size="5">MATH 110: Introduction to Number Theory</font> | [Course page on Canvas](https://canvas.ucsc.edu/courses/59497) |
+| Quarter | Course | Links |
+| --- | --- | --- |
+| [Winter 2023](/Teaching/Winter-2023) | <font size="4">MATH 110: Introduction to Number Theory</font> | [Course page on Canvas](https://canvas.ucsc.edu/courses/59497) |
 | [Fall 2022](/Teaching/Fall-2022) | MATH 110: Introduction to Number Theory | [Course page on Canvas](https://canvas.ucsc.edu/courses/57018) |
 
 ### Teaching Assistant Experience
