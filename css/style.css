@@ -125,3 +125,7 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 a.footericon:hover {
 	color: #428bca;
 }
+
+.ct-label {
+	font-size: 15px;
+}
