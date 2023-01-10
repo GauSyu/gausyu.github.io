@@ -28,6 +28,15 @@ katex: true
 4.  There may or may not be a quiz during the lecture. Submit your answer *through the attendance form*.
 
 #### Glossary
+
+1.  Throughout the course, you will maintain a glossary of terms and results that you find difficult to digest or wish to remember. Add *your thoughts* on them, and whenever possible, include examples as well.
+
+2.  The glossary can be typed or handwritten, long or short, but it *cannot be empty*. The point is it is about your learning experience.
+
+3.  You are asked to share your glossary every month (before the exams). To do this, navigate to the Glossary page and upload a *PDF* file to Gradescope. Be aware of the *due date*.
+
+4.  You can use the glossary as an *index* to resources you need to solve problems in the exams.
+
 #### Homework
 #### Midterm
 #### Final
