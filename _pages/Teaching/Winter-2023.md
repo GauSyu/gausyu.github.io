@@ -79,9 +79,10 @@ The grade will be based on two parts:
 #### Curve
 The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
 
-|:---:|:---:|
+
 | Total scores | Grade |
-|: $\geqslant 98$ :| A$+$ |
+|:---:|:---:|
+| $\geqslant 98$ | A$+$ |
 | $90$ -- $97$ | A |
 | $88$ -- $89$ | A$-$ |
 | $85$ -- $87$ | B$+$ |
