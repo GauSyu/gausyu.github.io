@@ -5,6 +5,8 @@ permalink: /Teaching/Winter-2023/
 katex: true
 ---
 
+<div class=" text-center">
+
 ## MATH 110: Introduction to Number Theory<!-- omit from toc --> 
 
 #### Winter 2023 • MWF 4:00 PM - 5:05 PM at Engineer 2 194 (in-person)<!-- omit from toc --> 
@@ -92,3 +94,4 @@ To pass the course, your letter grade should be at least **C**.
 [^1]: Need to discuss with the instructor before the end of the course.
 
 
+</div>
