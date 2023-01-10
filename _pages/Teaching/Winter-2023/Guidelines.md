@@ -97,7 +97,7 @@ katex: true
 
 | the compiled PDF file: [LaTeX Template.pdf](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/LaTeX%20Template.pdf) | the source .tex file: [LaTeX Template.tex](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/LaTeX%20Template.tex) |
 
-Note that: to edit and compile the .tex file, you need to download it and upload it to an online or local IDE.
+*Note that: to edit and compile the .tex file, you need to download it and upload it to an online or local IDE.*
 
 
 #### Online Discussion Tools
