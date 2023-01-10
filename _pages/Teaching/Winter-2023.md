@@ -72,7 +72,7 @@ The grade will be based on two parts:
 #### Curve
 The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
 
-<div class=" text-center">
+<div align="center">
 |:---:|:---:|
 | Total scores | Grade |
 | $\geqslant 98$ | A$+$ |
