@@ -15,6 +15,7 @@ katex: true
 - [Grade](#grade)
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
+- [](#)
 
 
 
@@ -62,6 +63,10 @@ The grade will be based on two parts:
    - **Glossary (10%)**, you are asked to keep a glossary and share it with us before *each* exam.
    - **Homework (30%)**, weekly homework (different from exercises, which will not be graded)
 
+
 #### Exams (50%)
    - **Midterm (20%)**, there will be **two** midterms, the lower one will be dropped.
    - **Final (30%)**
+
+
+###
