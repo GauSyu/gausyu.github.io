@@ -127,7 +127,7 @@ a.footericon:hover {
 }
 
 .ct-label{
-	font-size: 30px;
+	font-size: 24px;
 	font-family: 'Montserrat', Helvetica, sans-serif;
-	fill: black;
+	/* fill: black; */
 }
