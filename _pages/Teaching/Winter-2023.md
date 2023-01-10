@@ -70,7 +70,7 @@ The grade will be based on two parts:
 
 
 #### Curve
-The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
+The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.[^2]
 
 |:---:|:---:|
 | Total scores | Grade |
@@ -90,4 +90,6 @@ The final score will be curved with a norm distribution and then translated to l
 To pass the course, your letter grade should be at least **C**.
 
 [^1]: Need to discuss with the instructor before the end of the course.
+
+[^2]: wwss
 
