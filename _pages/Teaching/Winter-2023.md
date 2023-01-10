@@ -100,7 +100,12 @@ To pass the course, your letter grade should be at least **C**.
 <script type="text/javascript">
 	
 	var datums={
-    series: [{ value: 10, className: "ct-series-c" }, { value: 10, className: "ct-series-f" }, { value: 30, className: "ct-series-g" }, { value: 20, className: "ct-series-o" }, { value: 30, className: "ct-series-a" }],
+    series: [
+      { value: 10, className: "ct-series-i" },
+      { value: 10, className: "ct-series-k" },
+      { value: 30, className: "ct-series-m" },
+      { value: 20, className: "ct-series-n" },
+      { value: 30, className: "ct-series-o" }],
 		labels: ["Attendance and quizzes","Glossary","Homework","Midterms","Final"]
 	};
 	
