@@ -88,5 +88,6 @@ The final score will be curved with a norm distribution and then translated to l
 | incomplete[^1] | I |
 
 To pass the course, your letter grade should be at least **C**.
+
 [^1]: Need to discuss with the instructor before the end of the course.
 
