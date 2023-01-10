@@ -88,7 +88,8 @@ katex: true
 
 #### $\LaTeX$ 
 
-$\LaTeX$ is widely used for mathematical writing. You will need basic $\LaTeX$  for this course. To start, look at the .tex files I provide you. You can upload them to online $\LaTeX$ editors such as
+1.  $\LaTeX$ is widely used for mathematical writing. You will need basic $\LaTeX$ for this course. 
+2.  To start, look at the *.tex files* I provide you. You can upload them to online $\LaTeX$ editors such as
 [Overleaf](https://www.overleaf.com/), or import them into a local editor. Then google anything beyond the files, and use the online resources such as [Tex Stack Exchange](https://tex.stackexchange.com/), [Overleaf knowledge base](https://www.overleaf.com/learn), and [$\LaTeX$ wikibook](https://en.wikibooks.org/wiki/LaTeX). If you need help getting started, please contact me.
 
 
