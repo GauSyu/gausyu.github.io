@@ -4,7 +4,7 @@ title: Homepage
 permalink: /
 ---
 
-### *Hi! This is Xu Gao (a.k.a. Syu Gau),<br> a PhD candidate in mathematics at<br> University of California, Santa Cruz.*
+<font size="5"> *Hi! This is Xu Gao (a.k.a. Syu Gau),<br> a PhD candidate in mathematics at<br> University of California, Santa Cruz.*</font>
 
 I have a wide range of interests in mathematics: algebraic analysis, mathematical physics, representation theory, p-adic geometry, tensor triangular geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
 
