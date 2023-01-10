@@ -127,7 +127,7 @@ a.footericon:hover {
 }
 
 .ct-label{
-	font-size: 24px;
+	font-size: 16px;
 	font-family: 'Indie Flower', cursive;
-	fill: black;
+	/* fill: black; */
 }
