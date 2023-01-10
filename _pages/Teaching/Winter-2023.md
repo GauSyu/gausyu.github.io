@@ -16,6 +16,7 @@ katex: true
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
+- [Guidelines](#guidelines)
 
 
 
@@ -59,7 +60,7 @@ katex: true
 
 The grade will be based on two parts: 
 #### Homework and Classwork (50%)
-   - [**Attendance and quizzes (10%)**](#attendance-and-quizzes), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
+   - [**Attendance and quizzes (10%)**](Winter-2023/Guidelines#attendance-and-quizzes), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
    - [**Glossary (10%)**](#glossary), you are asked to keep a glossary and share it with us before *each* exam.
    - [**Homework (30%)**](#homework), weekly homework (different from exercises, which will not be graded)
 
@@ -92,3 +93,4 @@ To pass the course, your letter grade should be at least **C**.
 
 [^1]: Need to discuss with the instructor before the end of the course.
 
+### [Guidelines](Winter-2023/Guidelines)
