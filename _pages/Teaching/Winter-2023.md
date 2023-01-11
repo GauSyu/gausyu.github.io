@@ -34,7 +34,7 @@ katex: true
 
   - **TA.**&emsp; Changhan Zou (<czou3@ucsc.edu>)
 
-  - **TA's Office Hours.**&emsp; TBD
+  - **TA's Office Hours.**&emsp; M 1:30 - 3:30 PM, McHenry 1247
 
   - **Discussion Sections.**
 
