@@ -6,6 +6,10 @@ permalink: /Activities/
 
 ### Academic Talks
 
+- **$p$-adic representations and simplicial balls in Bruhat-Tits buildings**
+  *University of Arizona Algebra and Number Theory Seminar*, January 31, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/p-adic%20representations%20and%20simplicial%20balls%20in%20Bruhat-Tits%20buildings.pdf)
+
+
 - **How many vertices are there in a simplicial ball of radius r (in a Brihat-Tits Building)?**         
 	*UCSC Graduate Colloquium*, May 9, 2022. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/SimplicialVolume_Xu.pdf)
 
