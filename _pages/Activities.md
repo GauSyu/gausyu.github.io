@@ -2,6 +2,7 @@
 layout: note
 title: Activities
 permalink: /Activities/
+katex: true
 ---
 
 ### Academic Talks
