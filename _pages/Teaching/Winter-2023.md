@@ -17,6 +17,7 @@ katex: true
 	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
 - [Guidelines](#guidelines)
+- [Useful links](#useful-links)
 
 
 
@@ -94,6 +95,11 @@ To pass the course, your letter grade should be at least **C**.
 [^1]: Need to discuss with the instructor before the end of the course.
 
 ### [Guidelines](Guidelines/)
+
+### Useful links
+ - [Ford circles](https://en.wikipedia.org/wiki/Ford_circle#References)
+ - [Modular dynamics (Animation)](https://math.katestange.net/illustration/elementary-number-theory/modular-dynamics/)
+ - [Arithmetic of Polynomials (LaTeX package)](https://github.com/GauSyu/Polynomial-division)
 
 
 
