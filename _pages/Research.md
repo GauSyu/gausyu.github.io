@@ -7,17 +7,19 @@ katex: true
 
 ### Research interests
 
-My current research focuses on Bruhat-Tits buildings and $p$-adic representations. Currently, I'm considering simplicial balls in Bruhat-Tits buildings. The larger goal is to understand the fixed-point sets in Bruhat-Tits buildings and their applications to $p$-adic representations. 
+My current research mainly focus on Bruhat-Tits buildings and $p$-adic representations. 
+Specifically, I am interested in studying the simplicial distance in Bruhat-Tits buildings, 
+which are related to many topics such as the Moy-Prasad subgroups of a reductive group and almost self-dual lattices in a $p$-adic symplectic/orthogonal space. The larger goal is to understand the fixed-point sets in Bruhat-Tits buildings and their applications to $p$-adic representations.
 
 For more details see my [Research Statement](/uploads/Research%20Statement.pdf)
 
-Other interests include algebraic analysis, mathematical physics, representation theory, $p$-adic geometry, tt geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
+Other interests include $p$-adic geometry, representation theory, mathematical physics, algebraic analysis, tensor triangular geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
 
 ### Publications and preprints
 
 - Xu Gao, [“*Simplicial volumes in Bruhat-Tits buildings of split classical type*”](https://github.com/GauSyu/SmallNotes/blob/master/Simplicial%20volumes%20in%20Bruhat-Tits%20buildings%20of%20split%20classical%20types.pdf), arXiv:[2210.03328](https://arxiv.org/abs/2210.03328).
-- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
 - Xu Gao, Ming Liu, Chengming Bai and Naihuan Jing, [“*Rota-Baxter Operators on Witt and Virasoro Algebras*”](https://doi.org/10.1016/j.geomphys.2016.06.007), Journal of Geometry and Physics, vol.108, 2016, pp.1-20.
+- Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
 
 ### Expository writing
 
