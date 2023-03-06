@@ -42,7 +42,7 @@ katex: true
     | 01A | McHenry Clrm 1279 | Friday 9:20 AM - 10:25 AM |
     | 01B | McHenry Clrm 1279 | Tuesday 1:20 PM - 2:25 PM |
 
-*Lecture notes can be found [**here**](https://github.com/GauSyu/MathTeachingMaterials/tree/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes).*
+**Lecture notes can be found [*here*](https://github.com/GauSyu/MathTeachingMaterials/tree/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes).**
 
 ### Learning Outcomes
   - Familiarize Ideas and problems in number theory that play essential roles in modern mathematics.
