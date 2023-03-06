@@ -10,7 +10,7 @@ katex: true
 #### Winter 2023 • MWF 4:00 PM - 5:05 PM at Engineer 2 194 (in-person)<!-- omit from toc --> 
 
 - [Course Information](#course-information)
-- [Lecture notes can be found here](#lecture-notes-can-be-found-here)
+- [Lecture Notes](#lecture-notes)
 - [Learning Outcomes](#learning-outcomes)
 - [Structure of this course](#structure-of-this-course)
 - [Grade](#grade)
@@ -43,7 +43,8 @@ katex: true
     | 01A | McHenry Clrm 1279 | Friday 9:20 AM - 10:25 AM |
     | 01B | McHenry Clrm 1279 | Tuesday 1:20 PM - 2:25 PM |
 
-### [Lecture notes can be found here](LectureNotes/)
+### Lecture Notes 
+  - You can find them [**here**](LectureNotes/).
 
 ### Learning Outcomes
   - Familiarize Ideas and problems in number theory that play essential roles in modern mathematics.
