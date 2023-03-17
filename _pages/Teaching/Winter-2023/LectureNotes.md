@@ -48,3 +48,12 @@ katex: true
 #### Assembling Modular Worlds
 [Lecture 19 (Mar 1)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2019%20(Mar%201).pdf),
 [Lecture 20 (Mar 3)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2020%20(Mar%203).pdf)
+
+#### Quadratic Residues
+[Lecture 21 (Mar 6)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2021%20(Mar%206).pdf), 
+[Lecture 22 (Mar 8)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2022%20(Mar%208).pdf), 
+[Lecture 23 (Mar 10)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2023%20(Mar%2010).pdf), 
+[Lecture 24 (Mar 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2024%20(Mar%2013).pdf)
+
+#### Summarzing Lecture (Further Reading Suggestions)
+[Lecture 25 (Mar 15)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2025%20(Mar%2015).pdf)
