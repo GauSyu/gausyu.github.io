@@ -7,8 +7,20 @@ katex: true
 
 ### Academic Talks
 
+- **$p$-adic representations and simplicial distance in Bruhat-Tis buildings**      
+	*UC San Diego Number Theory Seminar*, March 16, 2023. [(pretalk)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance%20pretalk.pdf) [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.pdf)
+  <details>
+  	<summary>
+  	<u><b>Abstract</b></u> (click!)
+  	</summary> 	
+		<blockquote>
+		$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on p-adic representations. The simplicial distance holds an important role as it connects the combinatorics of lattices and the geometry of root systems. In particularly, the fixed-point sets of Moy-Prasad subgroups are precisely the simplicial balls. In this talk, I'll explain those findings and compute their simplicial volume under certain conditions.
+		</blockquote>
+	</details>
+	
+
 - **$p$-adic representations and simplicial balls in Bruhat-Tits buildings**         
-	*University of Arizona Algebra and Number Theory Seminar*, January 31, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/p-adic%20representations%20and%20simplicial%20balls%20in%20Bruhat-Tits%20buildings.pdf)
+	*University of Arizona Algebra and Number Theory Seminar*, January 31, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20representations%20and%20simplicial%20balls%20in%20Bruhat-Tits%20buildings.pdf)
 	<details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
@@ -19,15 +31,14 @@ katex: true
 	</details>
 	
 
-
 - **How many vertices are there in a simplicial ball of radius r (in a Brihat-Tits Building)?**         
-	*UCSC Graduate Colloquium*, May 9, 2022. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/SimplicialVolume_Xu.pdf)
+	*UCSC Graduate Colloquium*, May 9, 2022. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/SimplicialVolume_Xu.pdf)
 
 - **Stable Simplexes of p-adic Representations in Bruhat-Tits Buildings.**       
-	*UCSC Graduate Colloquium*, November 22, 2021. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/Stable%20simplexes%20of%20p-adic%20representations%20in%20Bruhat-Tits%20buildings_Gao.pdf)
+	*UCSC Graduate Colloquium*, November 22, 2021. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/Stable%20simplexes%20of%20p-adic%20representations%20in%20Bruhat-Tits%20buildings_Gao.pdf)
 
 - **Transcendence of Periods.**       
-	*PhD qualify oral Presentation* May 24, 2019. [(Slides)](https://github.com/GauSyu/MathSlides/blob/main/OralPresentation-Periods.pdf)
+	*PhD qualify oral Presentation* May 24, 2019. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/OralPresentation-Periods.pdf)
 
 ### Attended Academic Activities
 
