@@ -14,7 +14,7 @@ katex: true
   	<u><b>Abstract</b></u> (click!)
   	</summary> 	
 		<blockquote>
-		$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on p-adic representations. The simplicial distance holds an important role as it connects the combinatorics of lattices and the geometry of root systems. In particularly, the fixed-point sets of Moy-Prasad subgroups are precisely the simplicial balls. In this talk, I'll explain those findings and compute their simplicial volume under certain conditions.
+		$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on $-adic representations. The simplicial distance holds an important role as it connects the combinatorics of lattices and the geometry of root systems. In particularly, the fixed-point sets of Moy-Prasad subgroups are precisely the simplicial balls. In this talk, I'll explain those findings and compute their simplicial volume under certain conditions.
 		</blockquote>
 	</details>
 	
@@ -26,7 +26,7 @@ katex: true
   	<u><b>Abstract</b></u> (click!)
   	</summary> 	
 		<blockquote>
-		$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on p-adic representations. The simplicial balls, in particular, hold an important role as they possess the most symmetry and fastest growth, and are closely related to the Moy-Prasad filtrations. In this talk, I'll explain those new findings, provide a characterization of such simplicial balls, and compute their simplicial volume under certain conditions.
+		$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on $-adic representations. The simplicial balls, in particular, hold an important role as they possess the most symmetry and fastest growth, and are closely related to the Moy-Prasad filtrations. In this talk, I'll explain those new findings, provide a characterization of such simplicial balls, and compute their simplicial volume under certain conditions.
 		</blockquote>
 	</details>
 	
