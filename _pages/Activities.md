@@ -7,7 +7,7 @@ katex: true
 
 ### Academic Talks
 - **$p$-adic representations and simplicial balls in Bruhat-Tis buildings**      
-  *AMS Special Session on Combinatorics and Representation Theory, Spring Western Sectional Meeting* May 6, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.short.pdf)
+  *AMS Special Session on Combinatorics and Representation Theory, Spring Western Sectional Meeting*, May 6, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.short.pdf)
 	<details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
@@ -19,7 +19,7 @@ katex: true
 
 
 - **$p$-adic representations and simplicial distance in Bruhat-Tis buildings**      
-  *UC Santa Cruz Algebra & Number Theory Seminar*, April 14, 2023
+  *UC Santa Cruz - Algebra & Number Theory Seminar*, April 14, 2023
 	<details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
