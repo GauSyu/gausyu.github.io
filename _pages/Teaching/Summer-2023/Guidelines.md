@@ -1,7 +1,7 @@
 ---
 layout: note
 title: MATH 110 Guidelines
-permalink: /Teaching/Winter-2023/Guidelines/
+permalink: /Teaching/Summer-2023/Guidelines/
 katex: true
 ---
 

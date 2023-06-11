@@ -1,7 +1,7 @@
 ---
 layout: note
 title: MATH 110
-permalink: /Teaching/Winter-2023/
+permalink: /Teaching/Summer-2023/
 katex: true
 ---
 
