@@ -8,6 +8,7 @@ permalink: /Teaching/
 
 | Quarter | Course | Links |
 | :---: | :---: | :---: |
+| [Summer 2023](/Teaching/Summer-2023) | <font size="4">MATH 110: Introduction to Number Theory</font> | [MATH-110-02 (Canvas)](https://canvas.ucsc.edu/courses/64157) [MATH-110-03 (Canvas)](https://canvas.ucsc.edu/courses/64159) |
 | [Winter 2023](/Teaching/Winter-2023) | <font size="4">MATH 110: Introduction to Number Theory</font> | [Course page on Canvas](https://canvas.ucsc.edu/courses/59497) |
 | [Fall 2022](/Teaching/Fall-2022) | <font size="4">MATH 110: Introduction to Number Theory</font> | [Course page on Canvas](https://canvas.ucsc.edu/courses/57018) |
 
