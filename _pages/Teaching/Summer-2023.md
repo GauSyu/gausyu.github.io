@@ -38,11 +38,11 @@ katex: true
   - You can find them [**here**](LectureNotes/).
 
 ### Learning Outcomes
-  - Familiarize Ideas and problems in number theory that play essential roles in modern mathematics.
-  - Understand the roles of theorems, proofs, and counterexamples. 
-  - Develop problem-solving skills.
-  - Practice clear, concise, and precise mathematical writing.
-  - You will need basic [$\LaTeX$](Guidelines/#latex) for this course.
+  - Familiarize with fundamental concepts, ideas, and problems in number theory that play essential roles in modern mathematics.
+  - Develop a deep understanding of the role of theorems, proofs, and counterexamples in number theory, and recognize their significance in mathematical reasoning.
+  - Enhance problem-solving skills through the exploration and application of various number theory techniques and strategies.
+  - Cultivate the ability to communicate mathematical ideas clearly, concisely, and precisely through written assignments and discussions related to number theory.
+  - Acquire proficiency in using basic $\LaTeX$ formatting for mathematical notation, equations, and proofs, as it is an integral part of the course.
 
 ### Structure of this course
 ![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true){:width="750"}
