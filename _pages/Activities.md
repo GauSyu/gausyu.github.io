@@ -6,9 +6,31 @@ katex: true
 ---
 
 ### Academic Talks
+- **$p$-adic representations and simplicial balls in Bruhat-Tis buildings**      
+  *AMS Special Session on Combinatorics and Representation Theory, Spring Western Sectional Meeting* May 6, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.short.pdf)
+	<details>
+  	<summary>
+  	<u><b>Abstract</b></u> (click!)
+  	</summary> 	
+		<blockquote>
+  	$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on -adic representations. The simplicial balls, in particular, hold an important role as they possess the most symmetry and fastest growth, and are closely related to the Moy-Prasad filtrations. In this talk, I will introduce some results on simplicial balls.
+  	</blockquote>
+	</details>
+
 
 - **$p$-adic representations and simplicial distance in Bruhat-Tis buildings**      
-	*UC San Diego Number Theory Seminar*, March 16, 2023. [(pretalk)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance%20pretalk.pdf) [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.pdf)
+  *UC Santa Cruz Algebra & Number Theory Seminar*, April 14, 2023
+	<details>
+  	<summary>
+  	<u><b>Abstract</b></u> (click!)
+  	</summary> 	
+		<blockquote>
+  	$p$-adic representations are important objects in number theory, and stable lattices serve as a connection between the study of ordinary and modular representations. These stable lattices can be understood as stable vertices in Bruhat-Tits buildings. From this viewpoint, the study of fixed point sets in these buildings can aid research on $-adic representations. The simplicial distance holds an important role as it connects the combinatorics of lattices and the geometry of root systems. In particularly, the fixed-point sets of Moy-Prasad subgroups are precisely the simplicial balls. In this talk, I'll explain those findings and compute their simplicial volume under certain conditions.
+  	</blockquote>
+	</details>
+
+- **$p$-adic representations and simplicial distance in Bruhat-Tis buildings**      
+	*UC San Diego - Number Theory Seminar*, March 16, 2023. [(pretalk)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance%20pretalk.pdf) [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.pdf)
   <details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
@@ -20,7 +42,7 @@ katex: true
 	
 
 - **$p$-adic representations and simplicial balls in Bruhat-Tits buildings**         
-	*University of Arizona Algebra and Number Theory Seminar*, January 31, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20representations%20and%20simplicial%20balls%20in%20Bruhat-Tits%20buildings.pdf)
+	*University of Arizona - Algebra and Number Theory Seminar*, January 31, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20representations%20and%20simplicial%20balls%20in%20Bruhat-Tits%20buildings.pdf)
 	<details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
