@@ -50,9 +50,9 @@ By the end of this course, you will be able to:
 
 
 The grade will be based on five parts: 
-
+<center>
 <div class="ct-chart ct-label "></div>
-
+</center>
 
 #### Curve
 The final score will be curved with a norm distribution and then translated to letter grades using the following grading scheme.
