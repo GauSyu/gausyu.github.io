@@ -71,11 +71,9 @@ The final score will be curved with a norm distribution and then translated to l
 | $55$ -- $59$ | C$-$ |
 | $40$ -- $54$ | D |
 | $< 40$ | F |
-| incomplete<sup>[1](#myfootnote1)</sup> | I |
 
 To pass the course, your letter grade should be at least **C**.
 
-<a name="myfootnote1">1</a>: Need to discuss with the instructor before the end of the course.
 
 ### Useful links
  - [Ford circles](https://en.wikipedia.org/wiki/Ford_circle#References)
