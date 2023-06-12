@@ -12,12 +12,12 @@ katex: true
 - [Course Information](#course-information)
 - [Lecture Notes](#lecture-notes)
 - [Learning Outcomes](#learning-outcomes)
+- [Course Elements](#course-elements)
 - [Structure of this course](#structure-of-this-course)
 - [Grade](#grade)
 	- [Homework and Classwork (50%)](#homework-and-classwork-50)
 	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
-- [Guidelines](#guidelines)
 - [Useful links](#useful-links)
 
 
@@ -45,6 +45,7 @@ By the end of this course, you will be able to:
   4. Cultivate the ability to effectively communicate mathematical ideas clearly, concisely, and precisely through discussions, written assignments, and math writing exercises related to number theory.
   5. Acquire proficiency in using basic LaTeX formatting for mathematical notation, equations, and proofs, as it is an integral part of the course.
 
+### [Course Elements](Elements/)
 
 ### Structure of this course
 ![Structure of this course](https://github.com/GauSyu/MathTeachingMaterials/blob/main/Winter%202023%20MATH%20110%20UCSC/MIndmap.png?raw=true){:width="750"}
@@ -88,8 +89,6 @@ The final score will be curved with a norm distribution and then translated to l
 To pass the course, your letter grade should be at least **C**.
 
 <a name="myfootnote1">1</a>: Need to discuss with the instructor before the end of the course.
-
-### [Guidelines](Guidelines/)
 
 ### Useful links
  - [Ford circles](https://en.wikipedia.org/wiki/Ford_circle#References)
