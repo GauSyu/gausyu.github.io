@@ -10,21 +10,16 @@ katex: true
 #### Summer 2023 • Online<!-- omit from toc --> 
 
 - [Course Information](#course-information)
-- [Lecture Notes](#lecture-notes)
 - [Learning Outcomes](#learning-outcomes)
 - [Course Elements](#course-elements)
 - [Structure of this course](#structure-of-this-course)
 - [Grade](#grade)
-	- [Homework and Classwork (50%)](#homework-and-classwork-50)
-	- [Exams (50%)](#exams-50)
 	- [Curve](#curve)
 - [Useful links](#useful-links)
 
 
 
 ### Course Information
-[*Syllabus on Github*](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Syllabus.pdf)
-
   - **Instructor:**&emsp; Xu Gao (xgao26@ucsc.edu) - please contact me through email
 
   - **Lecture time and location:**&emsp; Asynchronous (videos can be found on Canvas)
@@ -33,9 +28,9 @@ katex: true
 
   - **Textbook.**&emsp; [*An Illustrated Theory of Numbers*](http://illustratedtheoryofnumbers.com/) by Martin H Weissman.
 
+  - [**Course Syllabus**](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Syllabus.pdf)
 
-### Lecture Notes 
-  - You can find them [**here**](LectureNotes/).
+  - [**Lecture Notes**](LectureNotes/)
 
 ### Learning Outcomes
 By the end of this course, you will be able to:
@@ -53,18 +48,10 @@ By the end of this course, you will be able to:
 
 ### Grade
 
+
+The grade will be based on five parts: 
+
 <div class="ct-chart ct-label "></div>
-
-The grade will be based on two parts: 
-#### Homework and Classwork (50%)
-   - [**Attendance and quizzes (10%)**](Guidelines/#attendance-and-quizzes), there will be attendance forms and quizzes, the lowest **5** ones will be dropped.
-   - [**Glossary (10%)**](Guidelines/#glossary), you are asked to keep a glossary and share it with us before *each* exam.
-   - [**Homework (30%)**](Guidelines/#homework), weekly homework (different from exercises, which will not be graded)
-
-
-#### Exams (50%)
-   - [**Midterm (20%)**](Guidelines/#midterm), there will be **two** midterms, the lower one will be dropped.
-   - [**Final (30%)**](Guidelines/#final)
 
 
 #### Curve
@@ -101,12 +88,12 @@ To pass the course, your letter grade should be at least **C**.
 	
 	var datums={
     series: [
-      { value: 10, className: "ct-series-i" },
+      { value: 20, className: "ct-series-i" },
       { value: 10, className: "ct-series-k" },
-      { value: 30, className: "ct-series-m" },
+      { value: 25, className: "ct-series-m" },
       { value: 20, className: "ct-series-n" },
-      { value: 30, className: "ct-series-o" }],
-		labels: ["Attendance and quizzes","Glossary","Homework","Midterms","Final"]
+      { value: 25, className: "ct-series-o" }],
+		labels: ["Quizzes","Glossary","Homework","Exam","Essays"]
 	};
 	
 	var options = {
