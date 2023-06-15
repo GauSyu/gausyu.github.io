@@ -6,8 +6,11 @@ katex: true
 ---
 
 *<font size="5"> 
-Hi! This is Xu Gao (a.k.a. Syu Gau),<br> a PhD candidate in mathematics at<br> University of California, Santa Cruz.
+Hi! This is Xu Gao (a.k.a. Syu Gau),<br>
+A Mathematical Ph.D.
 </font>*
+
+I have completed my degree and graduated from UC Santa Cruz on June 2023.
 
 I have a wide range of interests in mathematics: $p$-adic geometry, representation theory, mathematical physics, algebraic analysis, tensor triangular geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
 
