@@ -8,7 +8,7 @@ katex: true
 ## [MATH 110: Introduction to Number Theory](../)<!-- omit from toc --> 
 
 ### Lecture Notes
-#### Linear Diophantine Equations
+<!-- #### Linear Diophantine Equations
 [Lecture 1 (Jan 9)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%201%20(Jan%209).pdf), 
 [Lecture 2 (Jan 11)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%202%20(Jan%2011).pdf), 
 [Lecture 3 (Jan 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%203%20(Jan%2013).pdf)
@@ -55,4 +55,4 @@ katex: true
 [Lecture 24 (Mar 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2024%20(Mar%2013).pdf)
 
 #### Summarzing Lecture (Further Reading Suggestions)
-[Lecture 25 (Mar 15)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2025%20(Mar%2015).pdf)
+[Lecture 25 (Mar 15)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2025%20(Mar%2015).pdf) -->
