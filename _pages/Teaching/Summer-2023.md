@@ -20,7 +20,7 @@ katex: true
 
 
 ### Course Information
-  - **Instructor:**&emsp; Xu Gao (xgao26@ucsc.edu) - please contact me through email
+  - **Instructor:**&emsp; Xu Gao (xgao26@ucsc.edu) -- see [the guideline for communication](Elements/#Communication)
 
   - **Lecture time and location:**&emsp; Asynchronous (videos can be found on Canvas)
 
