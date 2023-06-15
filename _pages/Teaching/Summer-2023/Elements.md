@@ -27,7 +27,7 @@ This course consists of the following components:
 
 They serve as the main learning materials for this course.
 
-- Recorded videos of the lectures will be available for students to access at their convenience.
+- Recorded videos of the lectures will be uploaded to Canvas for students to access at their convenience.
 - Mandatory quizzes will be integrated into the lectures to assess understanding and encourage active learning.
 - Quizzes will be graded either by completion or with unlimited attempts.
 
