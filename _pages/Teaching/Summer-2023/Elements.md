@@ -27,8 +27,8 @@ This course consists of the following components:
 
 They serve as the main learning materials for this course.
 
-- Recorded videos of the lectures will be uploaded to Canvas for students to access at their convenience.
-- Mandatory quizzes will be integrated into the lectures to assess understanding and encourage active learning.
+- **Recorded videos** of the lectures will be uploaded to Canvas for students to access at their convenience.
+- **Mandatory quizzes** will be integrated into the lectures to assess understanding and encourage active learning.
 - Quizzes will be graded either by completion or with unlimited attempts.
 
 #### Supplementary Materials
@@ -42,47 +42,47 @@ Along with the recorded lectures, additional materials relevant to each lecture 
 
 Throughout the course, you will maintain a glossary of terms and results that you find difficult to digest or wish to remember.
 
-- Add your thoughts on them, and whenever possible, include examples as well.
-- Submit your glossary as a PDF file to Gradescope before the Final.
+- **Add your thoughts** on them, and whenever possible, include examples as well.
+- Submit your glossary as a **PDF** file to **Gradescope** before the **Final week**.
 - The glossary can be used as an index to resources for solving exam problems.
 
 #### Exercises
 
 Attached to each lecture and some supplementary notes, there will be short questions named exercises for practice and self-assessment.
 
-- Exercises are not mandatory: they will not be collected or graded.
+- Exercises are **not mandatory**: they will not be collected or graded.
 - However, they are highly recommended as they help reinforce understanding of lecture topics and practice important methods.
 - The difficulty of exercises is between quizzes and homework problems.
 
 #### Homework
 
-There will be a total of four weekly homework assignments.
+There will be a total of **four** weekly homework assignments.
 
-- Collaborative discussions with peers are encouraged. However, you must write the solutions in your own words and acknowledge collaborators.
-- Homework is expected to be typed using LaTeX.
-- Pay close attention to clear and well-reasoned writing.
-- References used in homework answers should be listed (either manually or using BibTeX). Immediate problem-solving resources should be avoided.
-- Submissions should be compiled into a PDF file and uploaded to Gradescope.
+- Collaborative discussions with peers are encouraged. However, you must write the solutions **in your own words** and **acknowledge collaborators**.
+- Homework is expected to be typed using [**$\LaTeX$**](#latex).
+- Pay close attention to **clear** and **well-reasoned** writing.
+- **References** used in homework answers should be listed (either manually or using BibTeX). Immediate problem-solving resources should be avoided.
+- Submissions should be compiled into a **PDF** file and uploaded to **Gradescope**.
 - The specific grading policy will be determined by the TA.
 
 #### Exam
 
 There will be one take-home final exam.
 
-- The exam will contain 7-9 problems, with an estimated time of 5 hours for completion.
-- It will be released at the beginning of the last week and due at the end of the session.
+- The final exam will consist of approximately 6-8 problems and is estimated to take around 3-4 hours to complete.
+- It will be released at the **beginning of the last week** and due at the **end of the session**.
 - Only results (theorems/lemmas/propositions/examples) provided during the lectures or in the homework are allowed for reference.
-- Solutions should be handwritten on the exam paper. You can upload either a scanned copy or an annotated PDF file.
-- Before submitting the final exam, ensure that your solutions are well-reasoned, and your writing is clear and legible.
+- Solutions should be **handwritten** on the exam paper. You can upload either a scanned copy or an annotated PDF file.
+- Before submitting the final exam, ensure that your solutions are **well-reasoned**, and your writing is **clear** and **legible**.
 - If you have any questions, please reach out to me or the TA for assistance.
 
 #### Essay
 
 The ability to present mathematical reasoning in a clear and organized manner through mathematical writing is a skill that requires training. This is also one of the objectives of this course.
 
-- In the middle of the course, you will be provided with a sample essay. Your task is to complete it by filling in the missing steps or details.
-- Afterward, you need to choose a topic related to number theory and write your own essay, following the format of the provided sample.
-- Essays are expected to be typed using LaTeX.
+- In the middle of the course, you will be provided with a **sample essay**. Your task is to complete it by filling in the missing steps or details.
+- Afterward, you need to choose a topic related to number theory and **write your own** essay, following the format of the provided sample.
+- Essays are expected to be typed using [**$\LaTeX$**](#latex).
 - The purpose of the essay is to practice mathematical writing. While originality is not a requirement, it is essential to adhere to academic integrity, write clearly, and acknowledge collaboration and references.
 
 #### Discussion Sections
@@ -96,11 +96,9 @@ Discussion sections will provide students with an opportunity to ask questions, 
 
 Feel free to contact me if you have any questions or concerns.
 
-
-
-- Please reach out to me primarily through Canvas messages. If you prefer to email me, please start the subject line with "Math110".
+- Please reach out to me primarily through **Canvas messages**. If you prefer to email me, please start the subject line with "**Math110**".
 - Provide as much information as possible regarding the topic you wish to discuss.
-- I will respond within 24 hours on weekdays, but please note that there may be delays during the weekend. Also, remember to check Canvas for any updates.
+- I will respond within 24 hours on weekdays, but please note that weekend delays may occur. Also, remember to check Canvas for any updates.
 - Don't hesitate to reach out.
 
 #### LaTeX 
