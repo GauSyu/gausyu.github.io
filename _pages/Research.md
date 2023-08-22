@@ -17,6 +17,7 @@ Other interests include $p$-adic geometry, representation theory, mathematical p
 
 ### Publications and preprints
 
+- Xu Gao and Ang Li, ["*The stable Picard group of finite Adams Hopf algebroids with an application to the $\mathbb{R}$-motivic Steenrod subalgebra $\mathcal{A}(1)^{\mathbb{R}}$*"](https://arxiv.org/abs/2306.12527), arXiv:[2306.12527](https://arxiv.org/abs/2306.12527).
 - Xu Gao, [“*Simplicial volumes in Bruhat-Tits buildings of split classical type*”](https://github.com/GauSyu/SmallNotes/blob/master/Simplicial%20volumes%20in%20Bruhat-Tits%20buildings%20of%20split%20classical%20types.pdf), arXiv:[2210.03328](https://arxiv.org/abs/2210.03328).
 - Xu Gao, Ming Liu, Chengming Bai and Naihuan Jing, [“*Rota-Baxter Operators on Witt and Virasoro Algebras*”](https://doi.org/10.1016/j.geomphys.2016.06.007), Journal of Geometry and Physics, vol.108, 2016, pp.1-20.
 - Xu Gao, [“*Extensions and Non-abelian Cohomology of Pre-Lie Algebras*”](https://github.com/GauSyu/Thesis/blob/master/CIM-GaoXu(2120120012).pdf), Master degree thesis, 2015, Nankai University.
