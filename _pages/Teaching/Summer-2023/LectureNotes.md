@@ -8,51 +8,66 @@ katex: true
 ## [MATH 110: Introduction to Number Theory](../)<!-- omit from toc --> 
 
 ### Lecture Notes
-<!-- #### Linear Diophantine Equations
-[Lecture 1 (Jan 9)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%201%20(Jan%209).pdf), 
-[Lecture 2 (Jan 11)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%202%20(Jan%2011).pdf), 
-[Lecture 3 (Jan 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%203%20(Jan%2013).pdf)
+- [Lecture 0](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/Introduction.pdf)
 
-#### Prime Factorization
-[Lecture 4 (Jan 18)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%204%20(Jan%2018).pdf), 
-[Lecture 5 (Jan 20)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%205%20(Jan%2020).pdf)
+#### Linear Diophantine Equations
+- [Lecture 1.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/1.1.pdf) (Euclidean) Division Algorithm.
+- [Lecture 1.2](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/1.2.pdf) (Binary) linear Diophantine equation
+- [Lecture 1.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/1.3.pdf) Homogeneous linear Diophantine equations
+- [Lecture 1.4](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/1.4.pdf) Solution set of binary linear Diophantine equations
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%201.pdf)
 
-#### Distribution of Primes and Arithmetic Functions
-[Lecture 6 (Jan 23)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%206%20(Jan%2023).pdf), 
-[Lecture 7 (Jan 25)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%207%20(Jan%2025).pdf)
+#### Prime Numbers
+- [Lecture 2.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.1.pdf) Hasse diagram
+- [Lecture 2.2a](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.2a.pdf) Prime Factorization
+- [Lecture 2.2b](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.2b.pdf) Prime Factorization
+- [Lecture 2.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.3.pdf) Translation between two worlds
+- [Lecture 2.4](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.4.pdf) Infinitude of primes
+- [Lecture 2.5](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.5.pdf) Distribution of Primes
+- [Lecture 2.6](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.6.pdf) Divisor set and Multiplicative functions
+- [Lecture 2.7](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.7.pdf) General sigma functions
+- [Lecture 2.8](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/2.8.pdf) Euclid-Euler theorem
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%202.pdf)
 
-#### Beyond Integers: Rationality, Algebraicity, and Diophantine Approximation
-[Lecture 8 (Jan 27)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%208%20(Jan%2027).pdf), 
-[Lecture 9 (Feb 1)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%209%20(Feb%201).pdf), 
-[Lecture 10 (Feb 3)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2010%20(Feb%203).pdf), 
-[Lecture 11 (Feb 6)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2011%20(Feb%206).pdf)
-
-#### Higher Diophantine Equations
-[Lecture 11 (Feb 6)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2011%20(Feb%206).pdf), 
-[Lecture 12 (Feb 8)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2012%20(Feb%208).pdf)
+#### Rational and Algebraic Numbers
+- [Lecture 3.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.1.pdf) Rational numbers
+- [Lecture 3.2](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.2.pdf) Algebraic numbers
+- [Lecture 3.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.3.pdf) Diophantine approximation
+- [Lecture 3.4](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.4.pdf) Ford circles
+- [Lecture 3.5](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.5.pdf) Mediant
+- [Lecture 3.6](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.6.pdf) Farey sequence
+- [Lecture 3.7](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.7.pdf) Dirichlet's approximation theorem
+- [Lecture 3.8](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.8.pdf) Higher Diophantine equations
+- [Lecture 3.9](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/3.9.pdf) Higher Diophantine equations
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%203.pdf)
 
 #### Modular World and Modular Dynamics
-[Lecture 12 (Feb 8)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2012%20(Feb%208).pdf), 
-[Lecture 13 (Feb 10)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2013%20(Feb%2010).pdf)
+- [Lecture 4.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.1.pdf) Congruence and modulus
+- [Lecture 4.2](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.2.pdf) Modular arithmetic
+- [Lecture 4.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.3.pdf) Modular dynamic
+- [Lecture 4.4](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.4.pdf) Multiplicative modular dynamic
+- [Lecture 4.5](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.5.pdf) Primality testing
+- [Lecture 4.6](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.6.pdf) Relation between additive and multiplicative dynamics
+- [Lecture 4.7](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.7.pdf) Discrete logarithm
+- [Lecture 4.8](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.8.pdf) Application to cryptography
+- [Lecture 4.9](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/4.9.pdf) Primitive root theorem
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%204.pdf)
 
-#### Modular Exponential and Discrete Logarithm
-[Lecture 14 (Feb 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2014%20(Feb%2013).pdf), 
-[Lecture 15 (Feb 15)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2015%20(Feb%2015).pdf),
-[Lecture 16 (Feb 17)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2016%20(Feb%2017).pdf)
-
-#### Polynomials modular $p$
-[Lecture 17 (Feb 22)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2017%20(Feb%2022).pdf),
-[Lecture 18 (Feb 24)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2018%20(Feb%2024).pdf)
+#### Modular Polynomials
+- [Lecture 5.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/5.1.pdf) Modular polynomials
+- [Lecture 5.2](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/5.2.pdf) Division of modular polynomials
+- [Lecture 5.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/5.3.pdf) (Euclidean) division algorithm and Prime factorization
+- [Lecture 5.4a](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/5.4a.pdf) Roots and degree
+- [Lecture 5.4b](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/5.4b.pdf) Finishing proving Primitive Root Theorem
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%205.pdf)
 
 #### Assembling Modular Worlds
-[Lecture 19 (Mar 1)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2019%20(Mar%201).pdf),
-[Lecture 20 (Mar 3)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2020%20(Mar%203).pdf)
+- [Lecture 6.1](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/6.1.pdf) (binary) Chinese Remainder Theorem
+- [Lecture 6.2](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/6.2.pdf) (multivariable) Chinese Remainder Theorem
+- [Lecture 6.3](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/6.3.pdf) Chinese Remainder Theorem: Applications
+- [Lecture 6.4](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/6.4.pdf) Reduction and Lifting
+- [Lecture 6.5](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Lecture%20Notes/6.5.pdf) Hensel's Lifting Theorem
+- [Supplementary Notes](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Summer%202023%20MATH%20110%20UCSC/Supplementary%20Notes/Chapter%206.pdf)
 
-#### Quadratic Residues
-[Lecture 21 (Mar 6)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2021%20(Mar%206).pdf), 
-[Lecture 22 (Mar 8)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2022%20(Mar%208).pdf), 
-[Lecture 23 (Mar 10)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2023%20(Mar%2010).pdf), 
-[Lecture 24 (Mar 13)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2024%20(Mar%2013).pdf)
-
-#### Summarzing Lecture (Further Reading Suggestions)
+<!-- #### Summarzing Lecture (Further Reading Suggestions)
 [Lecture 25 (Mar 15)](https://github.com/GauSyu/MathTeachingMaterials/raw/main/Winter%202023%20MATH%20110%20UCSC/Lecture%20Notes/Lecture%2025%20(Mar%2015).pdf) -->
