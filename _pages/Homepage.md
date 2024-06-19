@@ -6,7 +6,7 @@ katex: true
 ---
 
 *<font size="5"> 
-Hi! This is Xu Gao (a.k.a. Syu Gau),<br>
+Hi! This is Xu Gao (hanzi: 高煦, pronounced 'Gau-Syu'),<br>
 a Mathematical postdoc at Tongji University.
 </font>*
 
