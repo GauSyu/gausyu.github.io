@@ -6,7 +6,7 @@ katex: true
 ---
 
 *<font size="5"> 
-Hi! This is Xu Gao (hanzi: 高煦, pronounced 'Gau-Syu'),<br>
+Hi! This is Xu Gao (<font size="3"> hanzi:</font> 高煦, <font size="3"> pronounced</font> 'Gau-Syu'),<br>
 a math postdoc at Tongji University.
 </font>*
 
@@ -16,4 +16,4 @@ Before moving to Tongji, I completed my Ph.D. degree at UC Santa Cruz on June 20
 
 Before moving to UCSC, I received my master degree at [Chern Institute of Mathematics, Nankai University](http://en.cim.nankai.edu.cn/) under the advice of [Chengming Bai](http://en.cim.nankai.edu.cn/info/1142/1295.htm), studying pre-Lie algebras and Rota-Baxter operators. 
 
-Email: <gausyu@tongji.edu.cn> or <gausyu@gmail.com>
+Email: <gausyu@tongji.edu.cn> or <xgao26@ucsc.edu> or <gausyu@gmail.com>
