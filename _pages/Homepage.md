@@ -16,4 +16,4 @@ Before moving to Tongji, I completed my Ph.D. degree at UC Santa Cruz on June 20
 
 Before moving to UCSC, I received my master degree at [Chern Institute of Mathematics, Nankai University](http://en.cim.nankai.edu.cn/) under the advice of [Chengming Bai](http://en.cim.nankai.edu.cn/info/1142/1295.htm), studying pre-Lie algebras and Rota-Baxter operators. 
 
-Email: <xgao26@ucsc.edu> or <gausyu@gmail.com>
+Email: <gausyu@tongji.edu.cn> or <gausyu@gmail.com>
