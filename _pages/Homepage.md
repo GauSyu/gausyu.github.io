@@ -6,10 +6,10 @@ katex: true
 ---
 
 *<font size="5"> 
-Hi! This is Xu Gao<br> 
+Hi! This is Xu Gao</font>*<br>
 <font size="3">(hanzi: <font size="5">高煦</font>, pronounced <font size="4">'Gau-Syu'</font>),</font><br>
-a math postdoc at Tongji University.
-</font>*
+<font size="4"> a math postdoc at Tongji University.
+</font>
 
 I have a wide range of interests in mathematics: $p$-adic geometry, representation theory, vertex operator algebras and conformal field theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, complex algebraic geometry and transcendental number theory, etc. 
 
