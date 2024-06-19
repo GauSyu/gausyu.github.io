@@ -9,4 +9,4 @@ permalink: /contact/
 - [Math.UCSC.edu/gradstudents](https://www.math.ucsc.edu/courses/availability.php/directory/xgao26)
 - [My github](https://github.com/gausyu)
 - [Mathoverflow](https://mathoverflow.net/users/43795/syu-gau)
-- Email: <xgao26@ucsc.edu> or <gausyu@gmail.com>
+- Email: <xgao26@ucsc.edu> or <gausyu@tongji.edu.cn> or <gausyu@gmail.com>
