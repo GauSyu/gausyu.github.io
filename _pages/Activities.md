@@ -71,6 +71,18 @@ katex: true
 
 ### Attended Academic Activities
 
+- **Algebraic, analytic, geometric structures emerging from quantum field theory**      
+  Sichuan University, March 1--15, 2024
+
+- **第18届全国李理论会议**      
+  Tongji University, Shanghai, China, July 16--22, 2023
+
+- **Spring Western Sectional Meeting**      
+  California State University at Fresno, Fresno, CA, May 6--7, 2023
+
+- **Joint Mathematics Meetings**      
+  John B. Hynes Veterans Memorial Convention Center, January 4--7, 2023
+
 - **Sparsity of Algebraic Points**, *MSRI Summer Graduate School*     
   Mathematical Sciences Research Institute, June 7--18, 2021
 
