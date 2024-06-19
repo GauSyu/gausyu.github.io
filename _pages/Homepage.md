@@ -5,7 +5,7 @@ permalink: /
 katex: true
 ---
 
-<font size="4">*Hi! This is Xu Gao* (高煦；Gau-Syu)</font>
+<font size="5">*Hi! This is Xu Gao* (高煦；Gau-Syu)</font>
 
 I'm a math postdoc at Tongji University.
 
