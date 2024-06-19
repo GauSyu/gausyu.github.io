@@ -6,7 +6,8 @@ katex: true
 ---
 
 *<font size="5"> 
-Hi! This is Xu Gao (<font size="3"> hanzi:</font> 高煦, <font size="3"> pronounced</font> 'Gau-Syu'),<br>
+Hi! This is Xu Gao<br> 
+<font size="3">(hanzi: <font size="5">高煦</font>, pronounced <font size="4">'Gau-Syu'</font>),</font><br>
 a math postdoc at Tongji University.
 </font>*
 
