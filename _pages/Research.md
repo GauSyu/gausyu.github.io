@@ -13,7 +13,7 @@ which are related to many topics such as the Moy-Prasad subgroups of a reductive
 
 For more details see my [Research Statement](/uploads/Research%20Statement.pdf)
 
-Other interests include $p$-adic geometry, representation theory, mathematical physics, algebraic analysis, tensor triangular geometry, higher category theory, homotopical algebras, transcendental number theory, etc. 
+Other interests include $p$-adic geometry, representation theory, vertex operator algebras and conformal field theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, Diophantine approximation and transcendental number theory, etc.  
 
 ### Publications and preprints
 
