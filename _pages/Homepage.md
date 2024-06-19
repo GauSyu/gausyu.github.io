@@ -5,11 +5,9 @@ permalink: /
 katex: true
 ---
 
-*<font size="5"> 
-Hi! This is Xu Gao</font>*<br>
-<font size="3">(hanzi: <font size="5">高煦</font>, pronounced <font size="4">'Gau-Syu'</font>),</font><br>
-<font size="4"> a math postdoc at Tongji University.
-</font>
+<font size="4">*Hi! This is Xu Gao* (高煦；Gau-Syu)</font>
+
+I'm a math postdoc at Tongji University.
 
 I have a wide range of interests in mathematics: $p$-adic geometry, representation theory, vertex operator algebras and conformal field theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, complex algebraic geometry and transcendental number theory, etc. 
 
