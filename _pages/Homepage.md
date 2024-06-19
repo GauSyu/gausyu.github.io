@@ -7,7 +7,7 @@ katex: true
 
 *<font size="5"> 
 Hi! This is Xu Gao (hanzi: 高煦, pronounced 'Gau-Syu'),<br>
-a Mathematical postdoc at Tongji University.
+a math postdoc at Tongji University.
 </font>*
 
 I have a wide range of interests in mathematics: $p$-adic geometry, representation theory, vertex operator algebras and conformal field theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, complex algebraic geometry and transcendental number theory, etc. 
