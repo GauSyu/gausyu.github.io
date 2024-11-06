@@ -7,6 +7,9 @@ katex: true
 
 ### Academic Talks
 
+- **Twisted restricted conformal blocks of vertex operator algebras**   
+  *University of Pennsylvania - Math-Physics Joint Seminar*, October 31, 2024. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/UPenn%20MathPhysics%20talk.pdf)
+
 - **$p$-进表示与Bruhat-Tits建筑中的单形距离**      
   *珠海代数组合研讨会*，中山大学，珠海，October 29, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.Zhuhai.pdf)
 
@@ -71,13 +74,16 @@ katex: true
 
 ### Attended Academic Activities
 
+- **AMS 2024 Fall Eastern Sectional Meeting**     
+  University at Albany, Albany, NY, October 19-20, 2024
+
 - **Algebraic, analytic, geometric structures emerging from quantum field theory**      
   Sichuan University, March 1--15, 2024
 
 - **第18届全国李理论会议**      
   Tongji University, Shanghai, China, July 16--22, 2023
 
-- **Spring Western Sectional Meeting**      
+- **AMS 2023 Spring Western Sectional Meeting**      
   California State University at Fresno, Fresno, CA, May 6--7, 2023
 
 - **Joint Mathematics Meetings**      
