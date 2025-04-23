@@ -28,7 +28,8 @@ Other interests include algebraic analysis, $p$-adic geometry, higher category t
 
 #### Conformal field theory via mode transition algebras
 
-- *Under construction*
+- Xu Gao, "*On the strong identity condition for almost-canonically seminormed rings*", in preparation, availible soon.   
+  In this paper, we provide various characterizations of the strong identity condition for almost-canonically seminormed rings. Additionally, we present examples from diverse mathematical contexts to illustrate these characterizations.
 
 #### Stratification of Adams Hopf algebroids
 
