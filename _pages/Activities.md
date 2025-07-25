@@ -7,6 +7,25 @@ katex: true
 
 ### Academic Talks
 
+- **Monoidal structure on representations of vertex operator algebras via algebrogeometric conformal blocks**    
+  30 minutes Contributed talks [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/AGSRI2025-XuGao.pdf)    
+  *2025 Summer Research Institute in Algebraic Geometry*, July 25, 2025.
+
+- **Strong identity condition for almost canonically seminormed rings**    
+  *2025国际表示论会议*，集美大学，厦门，June 8, 2025.
+
+- **Ribbon monoidal category via algebrogeometric conformal blocks**    
+  *Tensor category of vertex operator algebras*, 上海交通大学, May 17, 2025.
+
+- **Ribbon monoidal category via conformal blocks and strong identity condition for almost canonically seminormed rings**     
+  顶点算子代数研讨会，同济大学，上海，May 10, 2025.
+
+- **Towards a ribbon monoidal category structure via conformal blocks of VOAs**    
+  陈省身数学研究所，南开大学，天津，January 10, 2025.
+
+- **(Co)stratifications in representation theory**    
+  陈省身数学研究所，南开大学，天津，January 10, 2025.
+
 - **Twisted restricted conformal blocks of vertex operator algebras**   
   *University of Pennsylvania - Math-Physics Joint Seminar*, October 31, 2024. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/UPenn%20MathPhysics%20talk.pdf)
 
@@ -73,6 +92,17 @@ katex: true
 	*PhD qualify oral Presentation* May 24, 2019. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/OralPresentation-Periods.pdf)
 
 ### Attended Academic Activities
+
+- **2025 Summer Research Institute in Algebraic Geometry**    
+  ([Clay Mathematics Institute](https://www.claymath.org/events/summer-research-institute-in-algebraic-geometry/))    
+  Colorado State University in Fort Collins, CO, USA, 
+  July 14 to August 1, 2025     
+
+- **Tensor category of vertex operator algebras**    
+  Shanghai Jiaotong University, May 17-18, 2025
+
+- **顶点算子代数研讨会**    
+  Tongji University, May 10-11, 2025
 
 - **AMS 2024 Fall Eastern Sectional Meeting**     
   University at Albany, Albany, NY, October 19-20, 2024
