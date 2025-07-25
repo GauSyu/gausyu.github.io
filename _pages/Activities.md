@@ -7,9 +7,8 @@ katex: true
 
 ### Academic Talks
 
-- **Monoidal structure on representations of vertex operator algebras via algebrogeometric conformal blocks**    
-  30 minutes Contributed talks [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/AGSRI2025-XuGao.pdf)    
-  *2025 Summer Research Institute in Algebraic Geometry*, July 25, 2025.
+- **Monoidal structure on representations of vertex operator algebras via algebrogeometric conformal blocks**    *30 minutes Contributed talks*     
+  *2025 Summer Research Institute in Algebraic Geometry*, July 25, 2025. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/AGSRI2025-XuGao.pdf)
 
 - **Strong identity condition for almost canonically seminormed rings**    
   *2025国际表示论会议*，集美大学，厦门，June 8, 2025.
