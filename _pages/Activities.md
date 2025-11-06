@@ -11,7 +11,7 @@ katex: true
   *2025 Summer Research Institute in Algebraic Geometry*, July 25, 2025. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/AGSRI2025-XuGao.pdf)
 
 - **Strong identity condition for almost canonically seminormed rings**    
-  *2025国际表示论会议*，集美大学，厦门，June 8, 2025.
+  *2025年表示理论及相关领域国际会议*，集美大学，厦门，June 8, 2025.
 
 - **Ribbon monoidal category via algebrogeometric conformal blocks**    
   *Tensor category of vertex operator algebras*, 上海交通大学, May 17, 2025.
@@ -35,7 +35,7 @@ katex: true
   *第18届全国李理论会议*，同济大学，上海，July 21, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.Shanghai.pdf)
 
 - **$p$-adic representations and simplicial balls in Bruhat-Tis buildings**      
-  *AMS Special Session on Combinatorics and Representation Theory, Spring Western Sectional Meeting*, May 6, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.short.pdf)
+  *AMS Special Session on Combinatorics and Representation Theory, Spring Western Sectional Meeting*, California State University, Fresno, May 6, 2023. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/p-adic%20repns%20and%20simplicial%20distance.short.pdf)
 	<details>
   	<summary>
   	<u><b>Abstract</b></u> (click!)
@@ -130,10 +130,10 @@ katex: true
 - **Workshop on Lie Theory and Representation Theory**  
   Sichuan University, May, 2016
 
-- **The Lie Theory Workshop**  
-  Sichuan University, July, 2014
+- **第十三届全国李代数会议**  
+  Sichuan University, July 21--27, 2013
 
-- **Sino-French Conference on Arithmetic Geometry**  
+- **中法算术几何会议(Sino-French Conference on Arithmetic Geometry)**  
   Nankai University, June, 2013
 
 
