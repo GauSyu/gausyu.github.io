@@ -9,7 +9,7 @@ katex: true
 
 I'm a math postdoc at Tongji University.
 
-I have a wide range of interests in mathematics: $p$-adic geometry, representation theory, vertex operator algebras and conformal field theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, complex algebraic geometry and transcendental number theory, etc. 
+I have a wide range of interests in mathematics: vertex operator algebras and conformal field theory, $p$-adic geometry, representation theory, $D$-modules and algebraic analysis, tensor triangular geometry, higher category theory and homotopical algebras, complex algebraic geometry and transcendental number theory, etc. 
 
 Before joining Tongji University, I completed my Ph.D. at UC Santa Cruz in June 2023. 
 During my time at Santa Cruz, I studied vertex operator algebras and chiral algebras under the supervision of [Chongying Dong](https://www.math.ucsc.edu/people/faculty.php?uid=dong), and algebraic geometry and number theory under the supervision of [Junecue Suh](https://www.math.ucsc.edu/people/faculty.php?uid=jusuh).
