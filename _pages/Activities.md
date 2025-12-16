@@ -6,8 +6,10 @@ katex: true
 ---
 
 ### Academic Talks
+- **Orbifold Theory of VOAs via Algebro-geometric Conformal Blocks**    
+  *第19届全国李理论会议*，广东工业大学，佛山，November 25, 2025. [（Slides）](https://github.com/GauSyu/MathSlides/raw/main/Lie2025-XuGao.pdf)
 
-- **Monoidal structure on representations of vertex operator algebras via algebrogeometric conformal blocks**    *30 minutes Contributed talks*     
+- **Monoidal structure on representations of vertex operator algebras via algebrogeometric conformal blocks**    *30-minutes Contributed talks*     
   *2025 Summer Research Institute in Algebraic Geometry*, July 25, 2025. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/AGSRI2025-XuGao.pdf)
 
 - **Strong identity condition for almost canonically seminormed rings**    
@@ -91,6 +93,9 @@ katex: true
 	*PhD qualify oral Presentation* May 24, 2019. [(Slides)](https://github.com/GauSyu/MathSlides/raw/main/OralPresentation-Periods.pdf)
 
 ### Attended Academic Activities
+
+- **第19届全国李理论会议**    
+  广东工业大学，佛山，November 21-26, 2025
 
 - **2025 Summer Research Institute in Algebraic Geometry**    
   ([Clay Mathematics Institute](https://www.claymath.org/events/summer-research-institute-in-algebraic-geometry/))    
