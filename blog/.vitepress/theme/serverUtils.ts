@@ -6,9 +6,9 @@ import { convertDateV2 } from './date'
 
 async function getPosts(pageSize: number) {
     const isProd = process.env.NODE_ENV === 'production'
-    const ignorePaths = isProd ? ['posts/draft/**/*.md', 'posts/private-notes/**/*.md', 'posts/trash/**/*.md'] : []
+    const ignorePaths = isProd ? ['blog/posts/draft/**/*.md', 'blog/posts/private-notes/**/*.md', 'blog/posts/trash/**/*.md'] : []
 
-    let paths = await globby(['posts/**/**.md'], {
+    let paths = await globby(['blog/posts/**/**.md'], {
         ignore: ignorePaths
     })
 
