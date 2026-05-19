@@ -1,0 +1,33 @@
+name: Deploy Blog
+
+on:
+  push:
+    paths:
+      - 'blog/**' # 只有当你修改blog文件夹时才触发，绝不干扰学术主页
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-level: 20
+
+      - name: Install VitePress & Build
+        run: |
+          npm install vitepress
+          # 创建一个极简的配置文件，指定打包的基础路径为 /blog/
+          mkdir -p blog/.vitepress
+          echo "export default { base: '/blog/', title: '博客', themeConfig: { sidebar: 'auto' } }" > blog/.vitepress/config.js
+          npx vitepress build blog
+
+      - name: Deploy to Subdirectory
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: blog/.vitepress/dist
+          target-folder: blog # 精准部署到网站的 /blog 子目录下
+          branch: gh-pages # 或者你现有的 GitHub Pages 部署分支
