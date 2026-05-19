@@ -28,4 +28,4 @@ jobs:
         with:
           folder: blog/.vitepress/dist # 打包生成的静态网页路径
           target-folder: blog          # 精准部署到主站的 /blog 子目录下
-          branch: gh-pages             # 你的 GitHub Pages 部署分支
+          branch: master             # 你的 GitHub Pages 部署分支
