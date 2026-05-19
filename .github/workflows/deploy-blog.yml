@@ -52,9 +52,7 @@ jobs:
 
   # 部署工作
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    # ⚡ 删掉或注释掉单独的 environment 块，直接合并到 steps
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
