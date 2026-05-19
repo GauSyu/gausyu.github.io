@@ -1,0 +1,7 @@
+body {
+  font-family: "Noto Serif SC", Georgia, serif; 
+  background-color: #fdf6e3; /* 护眼的米黄色日记背景 */
+}
+:root {
+  --vp-c-brand-1: #b58900; /* 日记的主色调改为茶黄色 */
+}
