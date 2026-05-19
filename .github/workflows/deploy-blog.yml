@@ -15,19 +15,17 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-level: 20
+          node-version: 20 # 修正语法错误 node-level -> node-version
 
-      - name: Install VitePress & Build
+      - name: Install and Build Blog
         run: |
-          npm install vitepress
-          # 创建一个极简的配置文件，指定打包的基础路径为 /blog/
-          mkdir -p blog/.vitepress
-          echo "export default { base: '/blog/', title: '博客', themeConfig: { sidebar: 'auto' } }" > blog/.vitepress/config.js
-          npx vitepress build blog
+          cd blog
+          npm install  # 会自动读取你修改后的 package.json，下载所有必需的主题依赖
+          npm run build # 会自动读取你定制的 config.ts 进行打包
 
       - name: Deploy to Subdirectory
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: blog/.vitepress/dist
-          target-folder: blog # 精准部署到网站的 /blog 子目录下
-          branch: gh-pages # 或者你现有的 GitHub Pages 部署分支
+          folder: blog/.vitepress/dist # 打包生成的静态网页路径
+          target-folder: blog          # 精准部署到主站的 /blog 子目录下
+          branch: gh-pages             # 你的 GitHub Pages 部署分支
