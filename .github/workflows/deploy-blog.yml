@@ -2,7 +2,8 @@ name: Deploy Blog
 
 on:
   push:
-    branch: [master]
+    branch:
+      - master
     paths:
       - 'blog/**' # 只有当你修改blog文件夹时才触发
 
@@ -49,14 +50,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: blog/.vitepress/dist
-
   # 部署工作
-  deploy:
-    # ⚡ 删掉或注释掉单独的 environment 块，直接合并到 steps
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to Master Subdirectory
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: blog/.vitepress/dist # 只提取打包出来的纯静态网页
+          target-folder: blog          # 精准塞进 master 分支的 blog 目录下
+          branch: master               # 投递回主分支
+          preserve: true               # ⚡ 极其重要：绝对不删除原有源码，只追加和覆盖静态网页！
