@@ -18,11 +18,11 @@
 
 	{% endif %}
 	<meta charset="utf-8">
-	<meta name="viewport" width="device-width, initial-scale=1.0">
-	<meta name="description" content="{{ page.description }}">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="{{ page.description | default: site.description | escape }}">
 	<meta name="author" content="{{ site.name }}">
 	<title>
-		{{ page.title }} | {{ site.name }} | {{ site.description }}
+		{{ page.title | escape }} | {{ site.name | escape }}
 	</title>		
 	
 	<!--Charts-->

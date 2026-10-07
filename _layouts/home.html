@@ -1,19 +1,21 @@
 ---
 layout: default
 ---
-	
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-lg-5">
-			<img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.profile.image }}">
-			<div class="col2-md-8 col-md-offset-3">
-				<p><div class="btn-group btn-group">		
-					<a href="uploads/cv-GaoXu.pdf" class="btn btn-primary">Curriculum Vitae</a>
-				</div></p>
-			</div>
-		</div>
-		<div class="clearfix">
-			{{ content }}
-		</div>
-	</div>
+
+<div class="home-layout">
+  <aside class="home-sidebar" aria-label="Profile">
+    <img class="img-circle avatar" alt="{{ site.name }}" src="{{ site.profile.image | relative_url }}">
+    <div class="home-identity">
+      <h1 class="home-profile-name"><span>{{ site.profile.name }}</span> · <span>{{ site.profile.name_zh }}</span> · <span>{{ site.profile.alias }}</span></h1>
+      <p class="home-position">{{ site.profile.position }}</p>
+      <p class="home-affiliation">{{ site.profile.department }}<br>{{ site.profile.employer }}</p>
+    </div>
+    <nav class="home-links" aria-label="Profile links">
+      <a href="{{ site.profile.cv | relative_url }}" class="btn btn-primary">Curriculum Vitae</a>
+      <a href="mailto:{{ site.profile.email }}">{{ site.profile.email }}</a>
+    </nav>
+  </aside>
+  <main class="home-content">
+    {{ content }}
+  </main>
 </div>

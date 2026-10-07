@@ -4,9 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-#### You can get in touch with me at:
+#### Contact
 
-- [Math.UCSC.edu/gradstudents](https://www.math.ucsc.edu/courses/availability.php/directory/xgao26)
-- [My github](https://github.com/gausyu)
-- [Mathoverflow](https://mathoverflow.net/users/43795/syu-gau)
-- Email: <xgao26@ucsc.edu> or <gausyu@tongji.edu.cn> or <gausyu@gmail.com>
+Xu Gao · 高煦 · Gau-Syu<br>
+Lecturer, Department of Mathematics<br>
+Shanghai Maritime University
+
+- **Email:** <gaoxu@shmtu.edu.cn>
+- **Alternative email:** <gausyu@gmail.com>
+- **Address:** Department of Mathematics, Shanghai Maritime University, 1550 Haigang Avenue, Shanghai 201306, China.
+- [GitHub](https://github.com/gausyu)
+- [MathOverflow](https://mathoverflow.net/users/43795/syu-gau)

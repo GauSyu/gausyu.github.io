@@ -4,7 +4,7 @@
 	{% include head.html %}
 	
 	<body>
-		<div class="container">
+		<div class="container{% if page.layout == 'home' %} home-container{% endif %}">
 			
 			{% include header.html %}
 			
