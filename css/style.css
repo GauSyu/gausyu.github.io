@@ -38,12 +38,15 @@ img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
   margin-bottom: 30px;
 }
 
+/* Inset the profile and article together within the homepage content area. */
 .home-layout {
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr);
   gap: 32px;
   align-items: start;
   margin-bottom: 30px;
+  padding-right: clamp(24px, 3vw, 56px);
+  padding-left: clamp(24px, 3vw, 56px);
 }
 
 .home-sidebar {
@@ -106,6 +109,8 @@ img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
 @media (max-width: 767px) {
   .home-layout {
     grid-template-columns: minmax(0, 1fr);
+    padding-right: 8px;
+    padding-left: 8px;
   }
 }
 
