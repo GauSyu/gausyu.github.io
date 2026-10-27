@@ -20,33 +20,14 @@ h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 
 img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
 
-/* The homepage fills the viewport; its text uses the remaining column width. */
-.container.home-container {
-  width: 100%;
-  max-width: none;
-  padding-right: 20px;
-  padding-left: 20px;
-}
-
-.home-container > .header,
-.home-container > .footer {
-  padding-right: 0;
-  padding-left: 0;
-}
-
-.home-container > .header {
-  margin-bottom: 30px;
-}
-
-/* Inset the profile and article together within the homepage content area. */
+/* Share the article pages' content inset inside the common site container. */
 .home-layout {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr);
+  grid-template-columns: 240px minmax(0, 1fr);
   gap: 32px;
   align-items: start;
-  margin-bottom: 30px;
-  padding-right: clamp(24px, 3vw, 56px);
-  padding-left: clamp(24px, 3vw, 56px);
+  width: 85%;
+  margin: 30px auto;
 }
 
 .home-sidebar {
@@ -57,7 +38,7 @@ img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
 .home-sidebar img.avatar {
   display: block;
   width: 100%;
-  max-width: 300px;
+  max-width: 240px;
   height: auto;
   aspect-ratio: 1;
   object-fit: cover;
@@ -109,8 +90,6 @@ img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
 @media (max-width: 767px) {
   .home-layout {
     grid-template-columns: minmax(0, 1fr);
-    padding-right: 8px;
-    padding-left: 8px;
   }
 }
 
